@@ -1,0 +1,404 @@
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron" ?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="m-1" meiversion="5.1">
+  <meiHead xml:id="m-2">
+    <fileDesc xml:id="m-3">
+      <titleStmt xml:id="m-4">
+        <title xml:id="m-17">84. H&#246;chster Priester, der du dich.</title>
+        <respStmt xml:id="m-18">
+          <persName xml:id="m-19"/>
+        </respStmt>
+      </titleStmt>
+      <pubStmt xml:id="m-20">
+        <availability xml:id="m-21">
+                    <useRestrict xml:id="m-22"/>
+                </availability>
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc xml:id="m-5">
+      <appInfo xml:id="m-6">
+        <application xml:id="m-7" type="music-notation-software" version="20250700">
+          <name xml:id="m-8" type="application">Sibelius</name>
+          <name xml:id="m-9" type="operating-system">Windows</name>
+        </application>
+        <application xml:id="m-10" isodate="2026-10-30T05:10:08Z" label="sibmei5" type="export-plugin" version="5.0.1">
+          <name xml:id="m-11">Sibelius to MEI 5.1 Exporter</name>
+        </application>
+        <application xml:id="m-12" label="NGB8A27Export" type="sibmei-extension">
+          <name xml:id="m-13">NGB 8A27 MEI Export</name>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList xml:id="m-14">
+      <work xml:id="m-15">
+        <title xml:id="m-16">84. H&#246;chster Priester, der du dich.</title>
+      </work>
+    </workList>
+  </meiHead>
+  <music xml:id="m-23">
+    <body xml:id="m-24">
+      <mdiv xml:id="m-25">
+        <score xml:id="m-27">
+          <scoreDef xml:id="m-28" meter.count="4" meter.sym="common" meter.unit="4">
+            <keySig sig="2s"/>
+            <staffGrp symbol="brace" bar.thru="true" xml:id="m-29">
+              <staffDef n="1" lines="5">
+                <clef shape="G" line="2"/>
+              </staffDef>
+              <staffDef n="2" lines="5">
+                <clef shape="F" line="4"/>
+              </staffDef>
+            </staffGrp>
+          </scoreDef>
+          <section xml:id="m-40">
+            <measure xml:id="m-43" n="1">
+              <staff xml:id="m-44" n="1">
+                <layer xml:id="m-45" n="1">
+                  <note xml:id="m-47" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-48" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-50" dur="4" oct="4" pname="b"/>
+                  <note xml:id="m-53" dur="4" oct="4" pname="a">
+                    <accid xml:id="m-54" accid="s"/>
+                  </note>
+                  <note xml:id="m-57" dur="4" oct="4" pname="b"/>
+                </layer>
+                <layer xml:id="m-46" n="2">
+                  <note xml:id="m-49" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-51" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-52" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-55" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-56" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-58" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-59" accid.ges="s"/>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="m-60" n="2">
+                <layer xml:id="m-61" n="1">
+                  <note xml:id="m-63" dur="4" oct="3" pname="b"/>
+                  <note xml:id="m-65" dur="4" oct="3" pname="b"/>
+                  <note xml:id="m-67" dur="4" oct="4" pname="c">
+                    <accid xml:id="m-68" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-71" dur="4" oct="3" pname="b"/>
+                </layer>
+                <layer xml:id="m-62" n="2">
+                  <note xml:id="m-64" dur="4" oct="2" pname="b"/>
+                  <note xml:id="m-66" dur="4" oct="3" pname="d"/>
+                  <note xml:id="m-69" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-70" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-72" dur="4" oct="3" pname="d"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m-76" n="2">
+              <staff xml:id="m-77" n="1">
+                <layer xml:id="m-78" n="1">
+                  <note xml:id="m-81" dur="4" oct="5" pname="d"/>
+                  <note xml:id="m-84" dur="4" oct="5" pname="c">
+                    <accid xml:id="m-85" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-89" dur="2" oct="4" pname="b"/>
+                </layer>
+                <layer xml:id="m-79" n="2">
+                  <note xml:id="m-82" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-83" accid.ges="s"/>
+                  </note>
+                  <beam xml:id="m-80">
+                    <note xml:id="m-86" dur="8" oct="4" pname="f">
+                      <accid xml:id="m-87" accid.ges="s"/>
+                    </note>
+                    <note xml:id="m-88" dur="8" oct="4" pname="e"/>
+                  </beam>
+                  <note xml:id="m-90" dur="2" oct="4" pname="d"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-92" n="2">
+                <layer xml:id="m-93" n="1">
+                  <note xml:id="m-95" dur="4" oct="3" pname="b"/>
+                  <note xml:id="m-97" dur="4" oct="3" pname="a">
+                    <accid xml:id="m-98" accid="s"/>
+                  </note>
+                  <note xml:id="m-101" dur="2" oct="3" pname="b"/>
+                </layer>
+                <layer xml:id="m-94" n="2">
+                  <note xml:id="m-96" dur="4" oct="2" pname="b"/>
+                  <note xml:id="m-99" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-100" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-102" dur="2" oct="2" pname="b"/>
+                </layer>
+              </staff>
+              <fermata xml:id="m-91" form="norm" layer="1 2" shape="curved" staff="1" startid="#m-89"/>
+              <fermata xml:id="m-103" form="inv" layer="1 2" shape="curved" staff="2" startid="#m-101" place="below"/>
+            </measure>
+            <measure xml:id="m-104" n="3">
+              <staff xml:id="m-105" n="1">
+                <layer xml:id="m-106" n="1">
+                  <note xml:id="m-108" dur="4" oct="4" pname="a">
+                    <accid xml:id="m-109" accid="n" func="caution"/>
+                  </note>
+                  <note xml:id="m-111" dur="4" oct="4" pname="g"/>
+                  <note xml:id="m-114" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-115" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-117" dur="4" oct="4" pname="g"/>
+                </layer>
+                <layer xml:id="m-107" n="2">
+                  <note xml:id="m-110" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-112" dur="4" oct="4" pname="c">
+                    <accid xml:id="m-113" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-116" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-118" dur="4" oct="4" pname="e"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-119" n="2">
+                <layer xml:id="m-120" n="1">
+                  <note xml:id="m-122" dur="4" oct="3" pname="e"/>
+                  <note xml:id="m-125" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-127" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-129" dur="4" oct="3" pname="b"/>
+                </layer>
+                <layer xml:id="m-121" n="2">
+                  <note xml:id="m-123" dur="4" oct="3" pname="c">
+                    <accid xml:id="m-124" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-126" dur="4" oct="2" pname="a"/>
+                  <note xml:id="m-128" dur="4" oct="3" pname="d"/>
+                  <note xml:id="m-130" dur="4" oct="2" pname="g"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m-131" n="4">
+              <staff xml:id="m-132" n="1">
+                <layer xml:id="m-133" n="1">
+                  <note xml:id="m-135" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-136" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-138" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-141" dur="2" oct="4" pname="d"/>
+                </layer>
+                <layer xml:id="m-134" n="2">
+                  <note xml:id="m-137" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-139" dur="4" oct="4" pname="c">
+                    <accid xml:id="m-140" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-142" dur="2" oct="4" pname="d"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-144" n="2">
+                <layer xml:id="m-145" n="1">
+                  <note xml:id="m-147" dots="1" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-150" dur="8" oct="3" pname="g"/>
+                  <note xml:id="m-151" dur="2" oct="3" pname="f">
+                    <accid xml:id="m-152" accid.ges="s"/>
+                  </note>
+                </layer>
+                <layer xml:id="m-146" n="2">
+                  <note xml:id="m-148" dur="4" oct="2" pname="a"/>
+                  <note xml:id="m-149" dur="4" oct="2" pname="a"/>
+                  <note xml:id="m-153" dur="2" oct="3" pname="d"/>
+                </layer>
+              </staff>
+              <fermata xml:id="m-143" form="norm" layer="1 2" shape="curved" staff="1" startid="#m-141"/>
+              <fermata xml:id="m-154" form="inv" layer="1 2" shape="curved" staff="2" startid="#m-151" place="below"/>
+            </measure>
+            <measure xml:id="m-155" n="5">
+              <staff xml:id="m-156" n="1">
+                <layer xml:id="m-157" n="1">
+                  <note xml:id="m-159" dur="4" oct="4" pname="a"/>
+                  <note xml:id="m-161" dur="4" oct="4" pname="a"/>
+                  <note xml:id="m-163" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-164" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-166" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-167" accid.ges="s"/>
+                  </note>
+                </layer>
+                <layer xml:id="m-158" n="2">
+                  <note xml:id="m-160" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-162" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-165" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-168" dur="4" oct="4" pname="d"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-169" n="2">
+                <layer xml:id="m-170" n="1">
+                  <note xml:id="m-172" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-175" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-178" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-180" dur="4" oct="3" pname="b"/>
+                </layer>
+                <layer xml:id="m-171" n="2">
+                  <note xml:id="m-173" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-174" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-176" dur="4" oct="3" pname="c">
+                    <accid xml:id="m-177" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-179" dur="4" oct="3" pname="d"/>
+                  <note xml:id="m-181" dur="4" oct="2" pname="b"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m-182" n="6">
+              <staff xml:id="m-183" n="1">
+                <layer xml:id="m-184" n="1">
+                  <note xml:id="m-186" dur="4" oct="4" pname="b"/>
+                  <note xml:id="m-188" dur="4" oct="5" pname="c">
+                    <accid xml:id="m-189" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-191" dur="4" oct="4" pname="a">
+                    <accid xml:id="m-192" accid="s"/>
+                  </note>
+                  <note xml:id="m-195" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-196" accid.ges="s"/>
+                  </note>
+                </layer>
+                <layer xml:id="m-185" n="2">
+                  <note xml:id="m-187" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-190" dur="4" oct="4" pname="g"/>
+                  <note xml:id="m-193" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-194" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-197" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-198" accid.ges="s"/>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="m-200" n="2">
+                <layer xml:id="m-201" n="1">
+                  <note xml:id="m-203" dur="4" oct="3" pname="b"/>
+                  <note xml:id="m-205" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-207" dur="4" oct="4" pname="c">
+                    <accid xml:id="m-208" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-211" dur="4" oct="3" pname="a">
+                    <accid xml:id="m-212" accid="s"/>
+                  </note>
+                </layer>
+                <layer xml:id="m-202" n="2">
+                  <note xml:id="m-204" dur="4" oct="3" pname="g"/>
+                  <note xml:id="m-206" dur="4" oct="3" pname="e"/>
+                  <note xml:id="m-209" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-210" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-213" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-214" accid.ges="s"/>
+                  </note>
+                </layer>
+              </staff>
+              <fermata xml:id="m-199" form="norm" layer="1 2" shape="curved" staff="1" startid="#m-195"/>
+              <fermata xml:id="m-215" form="inv" layer="1 2" shape="curved" staff="2" startid="#m-211" place="below"/>
+            </measure>
+            <measure xml:id="m-216" n="7">
+              <staff xml:id="m-217" n="1">
+                <layer xml:id="m-218" n="1">
+                  <note xml:id="m-220" dur="4" oct="4" pname="b"/>
+                  <note xml:id="m-223" dur="4" oct="5" pname="c">
+                    <accid xml:id="m-224" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-227" dur="4" oct="5" pname="d"/>
+                  <note xml:id="m-230" dur="4" oct="5" pname="c">
+                    <accid xml:id="m-231" accid.ges="s"/>
+                  </note>
+                </layer>
+                <layer xml:id="m-219" n="2">
+                  <note xml:id="m-221" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-222" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-225" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-226" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-228" dur="4" oct="4" pname="f">
+                    <accid xml:id="m-229" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-232" dur="4" oct="4" pname="e"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-233" n="2">
+                <layer xml:id="m-234" n="1">
+                  <note xml:id="m-236" dur="4" oct="3" pname="b"/>
+                  <note xml:id="m-238" dur="4" oct="3" pname="a">
+                    <accid xml:id="m-239" accid="s"/>
+                  </note>
+                  <note xml:id="m-242" dur="4" oct="3" pname="b"/>
+                  <note xml:id="m-244" dur="4" oct="3" pname="g"/>
+                </layer>
+                <layer xml:id="m-235" n="2">
+                  <note xml:id="m-237" dur="4" oct="3" pname="d"/>
+                  <note xml:id="m-240" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-241" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-243" dur="4" oct="2" pname="b"/>
+                  <note xml:id="m-245" dur="4" oct="3" pname="e"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m-246" n="8" right="end">
+              <staff xml:id="m-247" n="1">
+                <layer xml:id="m-248" n="1">
+                  <note xml:id="m-252" dur="4" oct="4" pname="b"/>
+                  <note xml:id="m-254" dur="4" oct="4" pname="a">
+                    <accid xml:id="m-255" accid="s"/>
+                  </note>
+                  <note xml:id="m-259" dur="4" oct="4" pname="b"/>
+                  <note xml:id="m-263" dur="4" oct="4" pname="b"/>
+                </layer>
+                <layer xml:id="m-249" n="2">
+                  <note xml:id="m-253" dur="4" oct="4" pname="d"/>
+                  <beam xml:id="m-250">
+                    <note xml:id="m-256" dur="8" oct="4" pname="c">
+                      <accid xml:id="m-257" accid.ges="s"/>
+                    </note>
+                    <note xml:id="m-258" dur="8" oct="4" pname="e"/>
+                  </beam>
+                  <beam xml:id="m-251">
+                    <note xml:id="m-260" dur="8" oct="4" pname="e"/>
+                    <note xml:id="m-261" dur="8" oct="4" pname="c">
+                      <accid xml:id="m-262" accid.ges="s"/>
+                    </note>
+                  </beam>
+                  <note xml:id="m-264" dur="4" oct="4" pname="d"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-266" n="2">
+                <layer xml:id="m-267" n="1">
+                  <note xml:id="m-269" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-270" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-273" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-274" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-277" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-278" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-280" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-281" accid.ges="s"/>
+                  </note>
+                </layer>
+                <layer xml:id="m-268" n="2">
+                  <note xml:id="m-271" dur="4" oct="3" pname="f">
+                    <accid xml:id="m-272" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-275" dur="4" oct="2" pname="f">
+                    <accid xml:id="m-276" accid.ges="s"/>
+                  </note>
+                  <note xml:id="m-279" dur="4" oct="2" pname="b"/>
+                  <note xml:id="m-282" dur="4" oct="2" pname="b"/>
+                </layer>
+              </staff>
+              <fermata xml:id="m-265" form="norm" layer="1 2" shape="curved" staff="1" startid="#m-263"/>
+              <fermata xml:id="m-283" form="inv" layer="1 2" shape="curved" staff="2" startid="#m-280" place="below"/>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
