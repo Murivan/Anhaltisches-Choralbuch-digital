@@ -20,49 +20,49 @@
     <music>
         <facsimile>
             <surface xml:id="surface_01M7DF2D8H629PJKYE93D5QQMT" n="1" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8JPZ4PVC8NFHE433RC" target="20251230_175710.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8JPZ4PVC8NFHE433RC" target="facsimile/20251230_175710.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8KP7VNY3ZRQGF863YM" n="2" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8KCRMYT2P033HZV4C2" target="20251230_175735.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8KCRMYT2P033HZV4C2" target="facsimile/20251230_175735.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8M7CEZ7H3FZXE02YVM" n="3" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8MC1YJRZ3VCX1WX42F" target="20251230_175745.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8MC1YJRZ3VCX1WX42F" target="facsimile/20251230_175745.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8MERD0AJMC1SC48S7A" n="4" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8N7ZSA4W68CQFXMKWK" target="20251230_175754.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8N7ZSA4W68CQFXMKWK" target="facsimile/20251230_175754.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8NA3YQC9H3ZV9KG6EM" n="5" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8NKBT3RH9FCTGG5JQ8" target="20251230_175801.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8NKBT3RH9FCTGG5JQ8" target="facsimile/20251230_175801.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8N4TY7YH0Q6MM6BER4" n="6" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8NRJEMEJMZ8XNAB3AD" target="20251230_175819.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8NRJEMEJMZ8XNAB3AD" target="facsimile/20251230_175819.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8NSE34SCPMW6KKGKRC" n="7" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8PHG7P145SS0Q2HX6T" target="20251230_175825.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8PHG7P145SS0Q2HX6T" target="facsimile/20251230_175825.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8PMWPSZ4BWF6T5CGND" n="8" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8PQB7AHK4MD6FFQ4NQ" target="20251230_175837.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8PQB7AHK4MD6FFQ4NQ" target="facsimile/20251230_175837.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8P97X89E9ZTC0TSAVX" n="9" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8PY6R9A2X979JSK3YJ" target="20251230_175852.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8PY6R9A2X979JSK3YJ" target="facsimile/20251230_175852.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8PCFF14J4NDC9S53T2" n="10" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8P5K692VQYDJVF6NE9" target="20251230_175902.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8P5K692VQYDJVF6NE9" target="facsimile/20251230_175902.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8PNW1SW6VQT02YNC56" n="11" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8P4M00CS39684Y5FP3" target="20251230_175909.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8P4M00CS39684Y5FP3" target="facsimile/20251230_175909.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8P7VFS6TP131FYM35V" n="12" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8P8CJA50F2VM7YFFED" target="20251230_175944.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8P8CJA50F2VM7YFFED" target="facsimile/20251230_175944.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8QHEJ3F9N4NM13JMBB" n="13" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8QADPFA5DD4W48VT6Q" target="20251230_175955.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8QADPFA5DD4W48VT6Q" target="facsimile/20251230_175955.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8QBVXHRNZB7QV1CS4V" n="14" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8Q63RPEMRGWCR18XJE" target="20251230_180016.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8Q63RPEMRGWCR18XJE" target="facsimile/20251230_180016.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8Q8FYGETPJXXMG03QP" n="15" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8RMG9SGXTZRR3S1BA3" target="20251230_180023.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8RMG9SGXTZRR3S1BA3" target="facsimile/20251230_180023.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2D8RNCKHKF6SMCWB94Z5" type="measure" ulx="490" uly="344" lrx="973" lry="877"/>
                 <zone xml:id="zone_01M7DF2D8R00HP8JYGXRTE13G3" type="measure" ulx="944" uly="368" lrx="1523" lry="864"/>
                 <zone xml:id="zone_01M7DF2D8R4E9KQCXCPC9RV59F" type="measure" ulx="1481" uly="388" lrx="2082" lry="912"/>
@@ -89,7 +89,7 @@
                 <zone xml:id="zone_01M7DF2D8WS25596BZ6GXHXJHM" type="measure" ulx="2900" uly="1920" lrx="3327" lry="2430"/>
             </surface>
             <surface xml:id="surface_01M7DF2D8XGAVNX6VAJGWBB78N" n="16" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8X6PCWHJ2PK75ZHQCZ" target="20251230_180038.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D8X6PCWHJ2PK75ZHQCZ" target="facsimile/20251230_180038.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2D8XAE0BW2NSFDC7N7Y7" type="measure" ulx="576" uly="380" lrx="1027" lry="895"/>
                 <zone xml:id="zone_01M7DF2D8XWBXSY7F8W8C6WY99" type="measure" ulx="978" uly="417" lrx="1487" lry="897"/>
                 <zone xml:id="zone_01M7DF2D8XRMYEHKHGSXNNN1T0" type="measure" ulx="1449" uly="411" lrx="1979" lry="931"/>
@@ -113,7 +113,7 @@
                 <zone xml:id="zone_01M7DF2D91PE7HB67N2WE7WK8K" type="measure" ulx="2753" uly="1971" lrx="3382" lry="2462"/>
             </surface>
             <surface xml:id="surface_01M7DF2D91VB5G65H0PRJEMW5J" n="17" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D91ABM8TPNNTZ121AYN" target="20251230_180051.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D91ABM8TPNNTZ121AYN" target="facsimile/20251230_180051.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2D91MR1V6A220S9MKC6W" type="measure" ulx="681" uly="508" lrx="1438" lry="1049"/>
                 <zone xml:id="zone_01M7DF2D91TVKMN3GR5KABNFYJ" type="measure" ulx="1385" uly="553" lrx="1842" lry="1073"/>
                 <zone xml:id="zone_01M7DF2D91S5T0WKW1XPB21ATJ" type="measure" ulx="1799" uly="578" lrx="2233" lry="1051"/>
@@ -138,7 +138,7 @@
                 <zone xml:id="zone_01M7DF2D94VNRVWR71PJCT743W" type="measure" ulx="2790" uly="2092" lrx="3410" lry="2596"/>
             </surface>
             <surface xml:id="surface_01M7DF2D9591VDNTW76YNZYNAD" n="18" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D956BD6RWHQ1GX3NPP5" target="20251230_180107.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D956BD6RWHQ1GX3NPP5" target="facsimile/20251230_180107.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2D957CHVBCVB51PT530G" type="measure" ulx="381" uly="383" lrx="838" lry="944"/>
                 <zone xml:id="zone_01M7DF2D95TY5M0418R3M0HJ33" type="measure" ulx="781" uly="404" lrx="1214" lry="947"/>
                 <zone xml:id="zone_01M7DF2D955C6PF2BGSS45K0DD" type="measure" ulx="1164" uly="427" lrx="1616" lry="955"/>
@@ -190,7 +190,7 @@
                 <zone xml:id="zone_01M7DF2D9GDVQA54JRNGYMGBB6" type="measure" ulx="3219" uly="2105" lrx="3395" lry="2597"/>
             </surface>
             <surface xml:id="surface_01M7DF2D9G479QE11D0TTA7V80" n="19" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D9GDWRQ2KTPJ1M1E49T" target="20251230_180115.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D9GDWRQ2KTPJ1M1E49T" target="facsimile/20251230_180115.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2D9HAR20JNSC7TAAFYG9" type="measure" ulx="546" uly="505" lrx="999" lry="1016"/>
                 <zone xml:id="zone_01M7DF2D9HG8N42EZJG205JNER" type="measure" ulx="956" uly="539" lrx="1291" lry="1020"/>
                 <zone xml:id="zone_01M7DF2D9HP2AFNGZGDMFQ8M2S" type="measure" ulx="1253" uly="552" lrx="1566" lry="1038"/>
@@ -227,7 +227,7 @@
                 <zone xml:id="zone_01M7DF2D9MKPPX4B12SZMMCQD7" type="measure" ulx="3045" uly="2066" lrx="3446" lry="2576"/>
             </surface>
             <surface xml:id="surface_01M7DF2D9MG9JDVCTSBTQXY7CB" n="20" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D9MXK34ZQ6DYJA8HSY5" target="20251230_180135.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D9MXK34ZQ6DYJA8HSY5" target="facsimile/20251230_180135.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2D9MT5Z1ZKTBS45QHK4V" type="measure" ulx="516" uly="374" lrx="1131" lry="949"/>
                 <zone xml:id="zone_01M7DF2D9MA5SHZ3SKWNC1HJA4" type="measure" ulx="1089" uly="402" lrx="1462" lry="949"/>
                 <zone xml:id="zone_01M7DF2D9NNYAK87CTPYM1VTE5" type="measure" ulx="1416" uly="434" lrx="1820" lry="934"/>
@@ -258,7 +258,7 @@
                 <zone xml:id="zone_01M7DF2D9RSH2TX1N5R04VCCCX" type="measure" ulx="3025" uly="2064" lrx="3505" lry="2577"/>
             </surface>
             <surface xml:id="surface_01M7DF2D9RFETPP1MRTSKAM6ZW" n="21" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D9R0ARQBHEYTCA9H9Q9" target="20251230_180143.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D9R0ARQBHEYTCA9H9Q9" target="facsimile/20251230_180143.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2D9RHEVFKBVQSPSEXZJ8" type="measure" ulx="560" uly="448" lrx="1018" lry="953"/>
                 <zone xml:id="zone_01M7DF2D9RKF1H07B1Y1XEYXC8" type="measure" ulx="988" uly="453" lrx="1511" lry="979"/>
                 <zone xml:id="zone_01M7DF2D9REZTC96AC49GVW38J" type="measure" ulx="1481" uly="451" lrx="1957" lry="1012"/>
@@ -282,7 +282,7 @@
                 <zone xml:id="zone_01M7DF2D9TZZCAVSGCSSJNXVF2" type="measure" ulx="2870" uly="1943" lrx="3417" lry="2492"/>
             </surface>
             <surface xml:id="surface_01M7DF2D9TKEKCCTHYNG58092C" n="22" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D9TQ5CV8ZDS63CYS0S3" target="20251230_180203.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D9TQ5CV8ZDS63CYS0S3" target="facsimile/20251230_180203.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2D9VB9957GEDN87CYAVW" type="measure" ulx="401" uly="372" lrx="1072" lry="932"/>
                 <zone xml:id="zone_01M7DF2D9VXE40QZMJG25SK6FE" type="measure" ulx="1024" uly="436" lrx="1470" lry="945"/>
                 <zone xml:id="zone_01M7DF2D9VZW769QQ2954CJ6SH" type="measure" ulx="1430" uly="456" lrx="1838" lry="950"/>
@@ -316,7 +316,7 @@
                 <zone xml:id="zone_01M7DF2D9YDXMRFQ5VABQW8ZGM" type="measure" ulx="2996" uly="2037" lrx="3426" lry="2571"/>
             </surface>
             <surface xml:id="surface_01M7DF2D9YC4C8WPMGGEN8XKV2" n="23" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D9YMW4YBC60W1MH87R5" target="20251230_180211.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2D9YMW4YBC60W1MH87R5" target="facsimile/20251230_180211.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2D9YCW85MF4JGE53FRDH" type="measure" ulx="529" uly="423" lrx="1190" lry="996"/>
                 <zone xml:id="zone_01M7DF2D9YJEHG5R5ZEN4SDRQ1" type="measure" ulx="1151" uly="454" lrx="1510" lry="1038"/>
                 <zone xml:id="zone_01M7DF2D9YCENBK6EGGTN10PPK" type="measure" ulx="1461" uly="462" lrx="1857" lry="1004"/>
@@ -348,7 +348,7 @@
                 <zone xml:id="zone_01M7DF2DA1FZH3GW0BDSCRG9YQ" type="measure" ulx="2987" uly="2021" lrx="3469" lry="2513"/>
             </surface>
             <surface xml:id="surface_01M7DF2DA1GJZ1HSSBMFT1PRBG" n="24" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DA190PD3ZMQ97JTGYB7" target="20251230_180229.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DA190PD3ZMQ97JTGYB7" target="facsimile/20251230_180229.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DA1XGTA5WJJXWYB4991" type="measure" ulx="494" uly="409" lrx="962" lry="966"/>
                 <zone xml:id="zone_01M7DF2DA2GE89359XZY3WD3X6" type="measure" ulx="918" uly="421" lrx="1465" lry="958"/>
                 <zone xml:id="zone_01M7DF2DA26NNZBMPMPSSDF2WQ" type="measure" ulx="1430" uly="435" lrx="1940" lry="962"/>
@@ -389,7 +389,7 @@
                 <zone xml:id="zone_01M7DF2DA5P78NSJH7YDCPA4TJ" type="measure" ulx="3195" uly="2045" lrx="3438" lry="2586"/>
             </surface>
             <surface xml:id="surface_01M7DF2DA5B070J67A57CN37SQ" n="25" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DA52Y2FP2F5WXRQMQBZ" target="20251230_180238.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DA52Y2FP2F5WXRQMQBZ" target="facsimile/20251230_180238.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DA55TZXPKC3KR3XY588" type="measure" ulx="710" uly="437" lrx="1696" lry="931"/>
                 <zone xml:id="zone_01M7DF2DA57SBWDK60P1489BYS" type="measure" ulx="1654" uly="451" lrx="2316" lry="965"/>
                 <zone xml:id="zone_01M7DF2DA6SM595ZVG2BFF4A29" type="measure" ulx="2264" uly="478" lrx="2901" lry="977"/>
@@ -418,7 +418,7 @@
                 <zone xml:id="zone_01M7DF2DAA5H8V0G3F8B5MVFQE" type="measure" ulx="3303" uly="1984" lrx="3577" lry="2485"/>
             </surface>
             <surface xml:id="surface_01M7DF2DABFXJN4N09EW6HNC3X" n="26" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DAB2KR72CN9ERETWC9S" target="20251230_180256.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DAB2KR72CN9ERETWC9S" target="facsimile/20251230_180256.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DAB8C0MA9ARCRYM7V3X" type="measure" ulx="467" uly="417" lrx="871" lry="939"/>
                 <zone xml:id="zone_01M7DF2DABNT360887DFKHZ5CC" type="measure" ulx="813" uly="445" lrx="1037" lry="939"/>
                 <zone xml:id="zone_01M7DF2DAB4WS2SF0CBF3PYVJP" type="measure" ulx="996" uly="459" lrx="1224" lry="943"/>
@@ -465,7 +465,7 @@
                 <zone xml:id="zone_01M7DF2DAGFRVYTEPNPPMA1VTE" type="measure" ulx="3018" uly="2074" lrx="3423" lry="2573"/>
             </surface>
             <surface xml:id="surface_01M7DF2DAGVBPM5REYMRMRBZ99" n="27" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DAGZ140QSCMGBJGQSBP" target="20251230_180410.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DAGZ140QSCMGBJGQSBP" target="facsimile/20251230_180410.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DAGHYBH9TMT6CXJACYZ" type="measure" ulx="507" uly="432" lrx="1054" lry="926"/>
                 <zone xml:id="zone_01M7DF2DAGZGC4AKDBK4J81YCY" type="measure" ulx="1029" uly="461" lrx="1248" lry="943"/>
                 <zone xml:id="zone_01M7DF2DAGDW25TMC604TT63Z3" type="measure" ulx="1223" uly="470" lrx="1485" lry="963"/>
@@ -506,7 +506,7 @@
                 <zone xml:id="zone_01M7DF2DANQHGK30FSVM1VHYH7" type="measure" ulx="2951" uly="2029" lrx="3363" lry="2535"/>
             </surface>
             <surface xml:id="surface_01M7DF2DAN2JEDA4XPCTGXV63H" n="28" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DANQQ5J28BYE5BGR2TG" target="20251230_180430.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DANQQ5J28BYE5BGR2TG" target="facsimile/20251230_180430.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DAN30SBT1PTBBE926D3" type="measure" ulx="577" uly="388" lrx="1158" lry="937"/>
                 <zone xml:id="zone_01M7DF2DAN0HT9638TVY53B6JF" type="measure" ulx="1105" uly="413" lrx="1497" lry="952"/>
                 <zone xml:id="zone_01M7DF2DANMXKCSPRFQ7ADT9DP" type="measure" ulx="1456" uly="448" lrx="1882" lry="920"/>
@@ -539,7 +539,7 @@
                 <zone xml:id="zone_01M7DF2DAVB4RMAK73CZ8G793M" type="measure" ulx="3115" uly="1946" lrx="3516" lry="2469"/>
             </surface>
             <surface xml:id="surface_01M7DF2DAVSVX8S2W57NDN0ZVZ" n="29" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DAVNJM3HQ2TJ48E0Y1B" target="20251230_180451.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DAVNJM3HQ2TJ48E0Y1B" target="facsimile/20251230_180451.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DAV3NRKWWANQQB70KW5" type="measure" ulx="392" uly="443" lrx="811" lry="969"/>
                 <zone xml:id="zone_01M7DF2DAVWNW7510YQECXS1MR" type="measure" ulx="768" uly="447" lrx="1399" lry="974"/>
                 <zone xml:id="zone_01M7DF2DAW4VCWWNFVM6R1Y380" type="measure" ulx="1359" uly="457" lrx="2042" lry="981"/>
@@ -569,7 +569,7 @@
                 <zone xml:id="zone_01M7DF2DB0N8Z1X65RP8KQ3968" type="measure" ulx="2973" uly="1940" lrx="3276" lry="2426"/>
             </surface>
             <surface xml:id="surface_01M7DF2DB057C7SHZTCQ6BQ3TV" n="30" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DB0JHD9MPX1WYT93WN6" target="20251230_180526.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DB0JHD9MPX1WYT93WN6" target="facsimile/20251230_180526.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DB0QKXZ5CRV5Y4239DW" type="measure" ulx="539" uly="351" lrx="989" lry="879"/>
                 <zone xml:id="zone_01M7DF2DB0EVH6RE7YNHFTHQNC" type="measure" ulx="933" uly="380" lrx="1546" lry="893"/>
                 <zone xml:id="zone_01M7DF2DB10S8V1YH475H6YBFZ" type="measure" ulx="1517" uly="384" lrx="2210" lry="937"/>
@@ -591,7 +591,7 @@
                 <zone xml:id="zone_01M7DF2DB3N9YX7C0MCVZ7C0BF" type="measure" ulx="2877" uly="1946" lrx="3398" lry="2457"/>
             </surface>
             <surface xml:id="surface_01M7DF2DB3SRAM97ZT3G0WHJJF" n="31" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DB4ED5MQ4GZDM02AN3R" target="20251230_180536.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DB4ED5MQ4GZDM02AN3R" target="facsimile/20251230_180536.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DB4YA42ECAGESSG4NBM" type="measure" ulx="773" uly="550" lrx="1420" lry="1063"/>
                 <zone xml:id="zone_01M7DF2DB4Z9EEPEAGFRBKSEHX" type="measure" ulx="1372" uly="572" lrx="1714" lry="1085"/>
                 <zone xml:id="zone_01M7DF2DB4XH77KVS2KVQ49M1T" type="measure" ulx="1668" uly="569" lrx="2028" lry="1087"/>
@@ -622,7 +622,7 @@
                 <zone xml:id="zone_01M7DF2DBCPC8VKJFZXT6XMNRE" type="measure" ulx="3204" uly="2089" lrx="3633" lry="2583"/>
             </surface>
             <surface xml:id="surface_01M7DF2DBDGDAMTM699MBPW1AV" n="32" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DBDX6Z60CVZZRART4TC" target="20251230_180559.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DBDX6Z60CVZZRART4TC" target="facsimile/20251230_180559.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DBDSKEZH8TZ8QSAYYBX" type="measure" ulx="413" uly="358" lrx="1239" lry="913"/>
                 <zone xml:id="zone_01M7DF2DBFAGVR8ZSRHC40WMP8" type="measure" ulx="1203" uly="389" lrx="1717" lry="938"/>
                 <zone xml:id="zone_01M7DF2DBFJV1JANYJ8XFBTV4H" type="measure" ulx="1682" uly="380" lrx="2305" lry="923"/>
@@ -650,7 +650,7 @@
                 <zone xml:id="zone_01M7DF2DBKMGHS0DWGW72DGE41" type="measure" ulx="2969" uly="2060" lrx="3416" lry="2564"/>
             </surface>
             <surface xml:id="surface_01M7DF2DBKV7SD7QDR8X4B12YY" n="33" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DBK7TFE1EKESJ9HC4BP" target="20251230_180632.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DBK7TFE1EKESJ9HC4BP" target="facsimile/20251230_180632.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DBK4GMAV4CN9S1BX39E" type="measure" ulx="612" uly="533" lrx="1002" lry="1108"/>
                 <zone xml:id="zone_01M7DF2DBK4TTMDKQZ857JJRER" type="measure" ulx="955" uly="554" lrx="1361" lry="1120"/>
                 <zone xml:id="zone_01M7DF2DBM6EKPVCF04C6Q7E8F" type="measure" ulx="1322" uly="557" lrx="1730" lry="1157"/>
@@ -676,7 +676,7 @@
                 <zone xml:id="zone_01M7DF2DBQG80WQNSD57K40SN9" type="measure" ulx="3000" uly="1865" lrx="3336" lry="2362"/>
             </surface>
             <surface xml:id="surface_01M7DF2DBR7G44XCV78727CQS6" n="34" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DBRGS75QPTSCSPSFV9G" target="20251230_180657.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DBRGS75QPTSCSPSFV9G" target="facsimile/20251230_180657.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DBRTKZF00H5GJ1DVWTS" type="measure" ulx="583" uly="421" lrx="1265" lry="955"/>
                 <zone xml:id="zone_01M7DF2DBRZZM44ZDYQ0HNT6F6" type="measure" ulx="1216" uly="441" lrx="1603" lry="988"/>
                 <zone xml:id="zone_01M7DF2DBRWQ82PE66B501E0BF" type="measure" ulx="1573" uly="445" lrx="1956" lry="985"/>
@@ -712,7 +712,7 @@
                 <zone xml:id="zone_01M7DF2DBWQG5QBSZV0BVDYYN8" type="measure" ulx="3205" uly="2080" lrx="3551" lry="2583"/>
             </surface>
             <surface xml:id="surface_01M7DF2DBXYRMQEHA2RQKSA5F7" n="35" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DBXSHA06ESMBPP0HQE0" target="20251230_180706.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DBXSHA06ESMBPP0HQE0" target="facsimile/20251230_180706.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DBXQFDPAKD5MMVACJ4E" type="measure" ulx="505" uly="439" lrx="967" lry="972"/>
                 <zone xml:id="zone_01M7DF2DBXJHJQFAJYMZ0M1CDD" type="measure" ulx="921" uly="481" lrx="1409" lry="978"/>
                 <zone xml:id="zone_01M7DF2DBXR61KRHVK4686P1EK" type="measure" ulx="1383" uly="473" lrx="1860" lry="1015"/>
@@ -736,7 +736,7 @@
                 <zone xml:id="zone_01M7DF2DC1FZJWVZBWRKNFR9SY" type="measure" ulx="2704" uly="1955" lrx="3259" lry="2480"/>
             </surface>
             <surface xml:id="surface_01M7DF2DC1WT1926W61RBHD65F" n="36" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DC1TBE0AFQKZ7FHG4JH" target="20251230_180724.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DC1TBE0AFQKZ7FHG4JH" target="facsimile/20251230_180724.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DC1C0AC81MHXGGC33E2" type="measure" ulx="543" uly="353" lrx="1350" lry="899"/>
                 <zone xml:id="zone_01M7DF2DC2QBP1FW0NXA2VGTGQ" type="measure" ulx="1326" uly="383" lrx="1933" lry="922"/>
                 <zone xml:id="zone_01M7DF2DC21KBM340EAKRPG187" type="measure" ulx="1891" uly="391" lrx="2476" lry="914"/>
@@ -763,7 +763,7 @@
                 <zone xml:id="zone_01M7DF2DC6NG8C2VYXT1K8W8WK" type="measure" ulx="3128" uly="2005" lrx="3498" lry="2505"/>
             </surface>
             <surface xml:id="surface_01M7DF2DC6HG0D4XC1ETXCW9VJ" n="37" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DC69Y3EW9S1841T8H9N" target="20251230_180732.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DC69Y3EW9S1841T8H9N" target="facsimile/20251230_180732.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DC7K816RPCG2T84M8MS" type="measure" ulx="513" uly="394" lrx="990" lry="912"/>
                 <zone xml:id="zone_01M7DF2DC7CNTXM62A4AXZNXCH" type="measure" ulx="966" uly="411" lrx="1501" lry="943"/>
                 <zone xml:id="zone_01M7DF2DC73BDVDCVHD18M0X1K" type="measure" ulx="1463" uly="417" lrx="2026" lry="986"/>
@@ -787,7 +787,7 @@
                 <zone xml:id="zone_01M7DF2DCBXGNAGHJWDH03932Q" type="measure" ulx="3015" uly="1957" lrx="3411" lry="2512"/>
             </surface>
             <surface xml:id="surface_01M7DF2DCBVJBG870GHHBD3GKW" n="38" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DCBZWPP0AH8TF1ZNPS4" target="20251230_180804.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DCBZWPP0AH8TF1ZNPS4" target="facsimile/20251230_180804.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DCBSZSE2EDC1B6QM8AD" type="measure" ulx="545" uly="392" lrx="994" lry="887"/>
                 <zone xml:id="zone_01M7DF2DCB8XT5TK8NGQC2ZET8" type="measure" ulx="962" uly="398" lrx="1531" lry="917"/>
                 <zone xml:id="zone_01M7DF2DCBPMWGAGW2XT4TYGYX" type="measure" ulx="1490" uly="412" lrx="1868" lry="925"/>
@@ -814,7 +814,7 @@
                 <zone xml:id="zone_01M7DF2DCFWG50YEXS9ZR4QXJC" type="measure" ulx="2968" uly="2019" lrx="3419" lry="2498"/>
             </surface>
             <surface xml:id="surface_01M7DF2DCF4YJ4FZ6T4N211M5Y" n="39" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DCFB81WAYT83ZB3JVCM" target="20251230_180811.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DCFB81WAYT83ZB3JVCM" target="facsimile/20251230_180811.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DCFA66WB97C854TYG7W" type="measure" ulx="548" uly="581" lrx="1029" lry="1185"/>
                 <zone xml:id="zone_01M7DF2DCG2HYXJ1MTJMFGTSX3" type="measure" ulx="976" uly="596" lrx="1604" lry="1179"/>
                 <zone xml:id="zone_01M7DF2DCG3V2T666ZM2KSTB48" type="measure" ulx="1557" uly="588" lrx="2180" lry="1191"/>
@@ -834,7 +834,7 @@
                 <zone xml:id="zone_01M7DF2DCJWSTK88XG1JNFB0A1" type="measure" ulx="3034" uly="1828" lrx="3430" lry="2453"/>
             </surface>
             <surface xml:id="surface_01M7DF2DCKSZTADSMK20DB4X1Y" n="40" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DCKR5V9NBQ66TRKAA20" target="20251230_180834.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DCKR5V9NBQ66TRKAA20" target="facsimile/20251230_180834.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DCK51SJQ501MN760Q3J" type="measure" ulx="516" uly="333" lrx="857" lry="806"/>
                 <zone xml:id="zone_01M7DF2DCKA9671AWNH45GQT1K" type="measure" ulx="814" uly="334" lrx="1024" lry="812"/>
                 <zone xml:id="zone_01M7DF2DCKMNXNG1C96WA8E8YY" type="measure" ulx="997" uly="340" lrx="1209" lry="821"/>
@@ -880,7 +880,7 @@
                 <zone xml:id="zone_01M7DF2DCS9MWMVKTTV8S1ZRT7" type="measure" ulx="2965" uly="1919" lrx="3389" lry="2449"/>
             </surface>
             <surface xml:id="surface_01M7DF2DCS0R1A652QAMTQJX8P" n="41" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DCS0NTH9DBVV8H63MB5" target="20251230_180900.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DCS0NTH9DBVV8H63MB5" target="facsimile/20251230_180900.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DCSW54NWJCWBEV6DSS5" type="measure" ulx="598" uly="411" lrx="987" lry="925"/>
                 <zone xml:id="zone_01M7DF2DCSXWXC83VCYG7MV1P1" type="measure" ulx="943" uly="426" lrx="1316" lry="942"/>
                 <zone xml:id="zone_01M7DF2DCSXQJPFTWA3P9WBJX0" type="measure" ulx="1285" uly="423" lrx="1711" lry="961"/>
@@ -919,7 +919,7 @@
                 <zone xml:id="zone_01M7DF2DD0G9K0K0GQN5KYK41Y" type="measure" ulx="3021" uly="1931" lrx="3338" lry="2426"/>
             </surface>
             <surface xml:id="surface_01M7DF2DD0J0BH24ZZA4NZBTWZ" n="42" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DD1VAPKZQW97D2E5GG4" target="20251230_180923.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DD1VAPKZQW97D2E5GG4" target="facsimile/20251230_180923.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DD13R364YQ3B1XKXCRN" type="measure" ulx="482" uly="337" lrx="1272" lry="878"/>
                 <zone xml:id="zone_01M7DF2DD1RWWH2ZP91C10SBJE" type="measure" ulx="1225" uly="360" lrx="1726" lry="893"/>
                 <zone xml:id="zone_01M7DF2DD1H4Z3C4GJNZNTQX58" type="measure" ulx="1690" uly="372" lrx="2160" lry="895"/>
@@ -956,7 +956,7 @@
                 <zone xml:id="zone_01M7DF2DD7YH2W7QCHKF63F0DX" type="measure" ulx="3010" uly="1892" lrx="3391" lry="2507"/>
             </surface>
             <surface xml:id="surface_01M7DF2DD7WGDNJ4VQ4K9MEZ14" n="43" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DD7CZK507S4HJZGJPW6" target="20251230_180953.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DD7CZK507S4HJZGJPW6" target="facsimile/20251230_180953.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DD72PADFW0N1E2HJ60V" type="measure" ulx="618" uly="410" lrx="1026" lry="930"/>
                 <zone xml:id="zone_01M7DF2DD7Y12PG3XZND10B51M" type="measure" ulx="984" uly="459" lrx="1348" lry="944"/>
                 <zone xml:id="zone_01M7DF2DD7X6XQW2BQPYNBHGPJ" type="measure" ulx="1306" uly="481" lrx="1699" lry="951"/>
@@ -991,7 +991,7 @@
                 <zone xml:id="zone_01M7DF2DDCKSY0DNJ9SBDRCYWQ" type="measure" ulx="3011" uly="1973" lrx="3393" lry="2476"/>
             </surface>
             <surface xml:id="surface_01M7DF2DDC0Q5C8G45FHJD2E05" n="44" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DDDJNDNGYHWYCP57XVE" target="20251230_181018.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DDDJNDNGYHWYCP57XVE" target="facsimile/20251230_181018.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DDD34BZSC8AVXWAZKDV" type="measure" ulx="439" uly="342" lrx="938" lry="923"/>
                 <zone xml:id="zone_01M7DF2DDD21RBZJXF66CVMV1Y" type="measure" ulx="882" uly="358" lrx="1225" lry="930"/>
                 <zone xml:id="zone_01M7DF2DDD856MJ9F58TC19BPY" type="measure" ulx="1178" uly="366" lrx="1490" lry="914"/>
@@ -1032,7 +1032,7 @@
                 <zone xml:id="zone_01M7DF2DDM9C5AK7VEPJ0JK4WJ" type="measure" ulx="3057" uly="2038" lrx="3381" lry="2462"/>
             </surface>
             <surface xml:id="surface_01M7DF2DDMPWQR9VRHX52WSPXX" n="45" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DDMJBYYXZC6NAN0S9Z1" target="20251230_181026.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DDMJBYYXZC6NAN0S9Z1" target="facsimile/20251230_181026.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DDM59Y8PQ29G6JBCZZ7" type="measure" ulx="500" uly="419" lrx="1018" lry="947"/>
                 <zone xml:id="zone_01M7DF2DDMPXTCXN7WW6ERGYR2" type="measure" ulx="982" uly="458" lrx="1438" lry="936"/>
                 <zone xml:id="zone_01M7DF2DDM0RG3V45DYN1ZMTWZ" type="measure" ulx="1409" uly="471" lrx="1820" lry="956"/>
@@ -1066,7 +1066,7 @@
                 <zone xml:id="zone_01M7DF2DDSZZQM3QCGPR8D76HF" type="measure" ulx="2997" uly="1988" lrx="3330" lry="2451"/>
             </surface>
             <surface xml:id="surface_01M7DF2DDS3R1E41N3D3TF1QR1" n="46" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DDSW4QW6FXH9WFPCXXF" target="20251230_181044.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DDSW4QW6FXH9WFPCXXF" target="facsimile/20251230_181044.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DDSHADQSRPXX07EP0JX" type="measure" ulx="470" uly="352" lrx="831" lry="880"/>
                 <zone xml:id="zone_01M7DF2DDS8PV058R2D7Z7K6AN" type="measure" ulx="792" uly="369" lrx="1157" lry="909"/>
                 <zone xml:id="zone_01M7DF2DDS8GCHJBCSPET03RG1" type="measure" ulx="1103" uly="375" lrx="1502" lry="900"/>
@@ -1103,7 +1103,7 @@
                 <zone xml:id="zone_01M7DF2DDX3M78DJPQMP20ZVW1" type="measure" ulx="2945" uly="2016" lrx="3304" lry="2510"/>
             </surface>
             <surface xml:id="surface_01M7DF2DDXYMQ3GXQJQQQNBWYX" n="47" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DDX0W546GMEV5EA8A6K" target="20251230_181058.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DDX0W546GMEV5EA8A6K" target="facsimile/20251230_181058.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DDXHZBAV1CVXQ9MZ6VK" type="measure" ulx="623" uly="405" lrx="1238" lry="927"/>
                 <zone xml:id="zone_01M7DF2DDXWEFZPPZ5SDQKJQZY" type="measure" ulx="1197" uly="433" lrx="1542" lry="936"/>
                 <zone xml:id="zone_01M7DF2DDXGCEXFFZEKXXW5QFF" type="measure" ulx="1506" uly="441" lrx="1818" lry="939"/>
@@ -1138,7 +1138,7 @@
                 <zone xml:id="zone_01M7DF2DE1S6Q2CVQ43E3992CS" type="measure" ulx="2981" uly="1933" lrx="3371" lry="2470"/>
             </surface>
             <surface xml:id="surface_01M7DF2DE18W7N4SN6AH6AW378" n="48" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DE1DKRCTNGV04J4QR44" target="20251230_181128.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DE1DKRCTNGV04J4QR44" target="facsimile/20251230_181128.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DE1GP5418X8ZFFA357B" type="measure" ulx="520" uly="355" lrx="920" lry="894"/>
                 <zone xml:id="zone_01M7DF2DE1VSX033J2Z5E4GYJ0" type="measure" ulx="875" uly="355" lrx="1347" lry="914"/>
                 <zone xml:id="zone_01M7DF2DE15WCP0JT4Z9GBR4NW" type="measure" ulx="1312" uly="361" lrx="1779" lry="922"/>
@@ -1171,7 +1171,7 @@
                 <zone xml:id="zone_01M7DF2DE58XB01KT9MA6M6BQ5" type="measure" ulx="3099" uly="2032" lrx="3468" lry="2583"/>
             </surface>
             <surface xml:id="surface_01M7DF2DE5MR8RXZTEGE5Z1EYF" n="49" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DE5ZF3N49Q9R5YTR7RC" target="20251230_181137.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DE5ZF3N49Q9R5YTR7RC" target="facsimile/20251230_181137.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DE5DV284BH3B300QNG9" type="measure" ulx="412" uly="467" lrx="883" lry="971"/>
                 <zone xml:id="zone_01M7DF2DE5S1WSEBYQ59MJK0Q6" type="measure" ulx="840" uly="466" lrx="1502" lry="984"/>
                 <zone xml:id="zone_01M7DF2DE6S0263HZ2CP3X762K" type="measure" ulx="1457" uly="463" lrx="2076" lry="1038"/>
@@ -1193,7 +1193,7 @@
                 <zone xml:id="zone_01M7DF2DE8HQX0HV3GW405EKA1" type="measure" ulx="2767" uly="2036" lrx="3345" lry="2572"/>
             </surface>
             <surface xml:id="surface_01M7DF2DE8MJBPK53XCC7FQE9H" n="50" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DE8WCRRAXWQKGT8VWXG" target="20251230_181226.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DE8WCRRAXWQKGT8VWXG" target="facsimile/20251230_181226.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DE8WX7HCSYVE7S3X652" type="measure" ulx="499" uly="377" lrx="1178" lry="919"/>
                 <zone xml:id="zone_01M7DF2DE8DTCDJCH1H9FS2P2K" type="measure" ulx="1128" uly="399" lrx="1516" lry="922"/>
                 <zone xml:id="zone_01M7DF2DE94BGQST9AQ33XRV5B" type="measure" ulx="1475" uly="412" lrx="1937" lry="934"/>
@@ -1229,7 +1229,7 @@
                 <zone xml:id="zone_01M7DF2DEF11SMPK5VT3BA8AW1" type="measure" ulx="3123" uly="2122" lrx="3494" lry="2656"/>
             </surface>
             <surface xml:id="surface_01M7DF2DEGHW3G1FDMAFGQACWG" n="51" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DEGDJ4TX0PT2A9TBA72" target="20251230_181232.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DEGDJ4TX0PT2A9TBA72" target="facsimile/20251230_181232.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DEG6R6FMH60F79J31C3" type="measure" ulx="481" uly="432" lrx="1141" lry="953"/>
                 <zone xml:id="zone_01M7DF2DEGSB74QVQG4BEHZJP1" type="measure" ulx="1079" uly="463" lrx="1460" lry="981"/>
                 <zone xml:id="zone_01M7DF2DEG8HV20MTWNJ0BENF6" type="measure" ulx="1398" uly="512" lrx="1779" lry="970"/>
@@ -1268,7 +1268,7 @@
                 <zone xml:id="zone_01M7DF2DEQA6X4J0BAXQE9HRF8" type="measure" ulx="2980" uly="2001" lrx="3343" lry="2478"/>
             </surface>
             <surface xml:id="surface_01M7DF2DEQFF72ETN4VCVD3ESM" n="52" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DEQEZ981NSD7HZNAQQD" target="20251230_181259.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DEQEZ981NSD7HZNAQQD" target="facsimile/20251230_181259.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DEREHCZWCAXX537V9Q9" type="measure" ulx="540" uly="332" lrx="1229" lry="884"/>
                 <zone xml:id="zone_01M7DF2DER0PPZCMQ5FVES2H4P" type="measure" ulx="1179" uly="357" lrx="1533" lry="907"/>
                 <zone xml:id="zone_01M7DF2DER27161P1Y3DGMGQ2Y" type="measure" ulx="1502" uly="378" lrx="1971" lry="920"/>
@@ -1303,7 +1303,7 @@
                 <zone xml:id="zone_01M7DF2DEXF8FHNN9M5DY4JZ7F" type="measure" ulx="3243" uly="2048" lrx="3503" lry="2661"/>
             </surface>
             <surface xml:id="surface_01M7DF2DEXJ50TC28VNE8NE5V9" n="53" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DEXF2AVT1QT23MWT4E2" target="20251230_181322.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DEXF2AVT1QT23MWT4E2" target="facsimile/20251230_181322.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DEYE6MB5P84C83V96C7" type="measure" ulx="463" uly="394" lrx="932" lry="944"/>
                 <zone xml:id="zone_01M7DF2DEYWMX1D5H4V5XHRB0R" type="measure" ulx="883" uly="427" lrx="1237" lry="946"/>
                 <zone xml:id="zone_01M7DF2DEY3AYHQ4Y0Z8W7KQ35" type="measure" ulx="1198" uly="442" lrx="1558" lry="957"/>
@@ -1340,7 +1340,7 @@
                 <zone xml:id="zone_01M7DF2DF39Y113SFY2DFSXVYQ" type="measure" ulx="2939" uly="2040" lrx="3352" lry="2576"/>
             </surface>
             <surface xml:id="surface_01M7DF2DF3J8BVY6RSGDQBJ6W6" n="54" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DF43DZBVPP3758RC994" target="20251230_181354.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DF43DZBVPP3758RC994" target="facsimile/20251230_181354.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DF4MQT5E96R26XFVEYG" type="measure" ulx="520" uly="390" lrx="874" lry="1019"/>
                 <zone xml:id="zone_01M7DF2DF4R34CYF6DVH8GZD9P" type="measure" ulx="814" uly="408" lrx="1129" lry="1033"/>
                 <zone xml:id="zone_01M7DF2DF4TSB8TAZFG5MKAZ4K" type="measure" ulx="1072" uly="407" lrx="1383" lry="1034"/>
@@ -1381,7 +1381,7 @@
                 <zone xml:id="zone_01M7DF2DFA1PZRJWWRVHW0XVWW" type="measure" ulx="3113" uly="2108" lrx="3490" lry="2618"/>
             </surface>
             <surface xml:id="surface_01M7DF2DFAJY8FQG8VWK34519E" n="55" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DFAAC7BH4WC9HPCVRSW" target="20251230_181408.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DFAAC7BH4WC9HPCVRSW" target="facsimile/20251230_181408.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DFA655FWSBHN10S80B7" type="measure" ulx="552" uly="397" lrx="1355" lry="922"/>
                 <zone xml:id="zone_01M7DF2DFA80BFW9FQFBFS1YAB" type="measure" ulx="1311" uly="430" lrx="1814" lry="948"/>
                 <zone xml:id="zone_01M7DF2DFA96BXJ3RC5GB09M4K" type="measure" ulx="1776" uly="425" lrx="2100" lry="971"/>
@@ -1423,7 +1423,7 @@
                 <zone xml:id="zone_01M7DF2DFHQF6TSFS1EQHSNGVJ" type="measure" ulx="3183" uly="1999" lrx="3486" lry="2496"/>
             </surface>
             <surface xml:id="surface_01M7DF2DFHVRGYCR05KY630W2S" n="56" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DFH79WEB9KYN1JH05Z2" target="20251230_181432.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DFH79WEB9KYN1JH05Z2" target="facsimile/20251230_181432.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DFHAPCBZ8ANXMAP35CT" type="measure" ulx="505" uly="375" lrx="1251" lry="932"/>
                 <zone xml:id="zone_01M7DF2DFH8773XQV3294YRYGX" type="measure" ulx="1196" uly="402" lrx="1665" lry="971"/>
                 <zone xml:id="zone_01M7DF2DFJ9WGGQ93ARGH9MGP3" type="measure" ulx="1620" uly="423" lrx="2107" lry="973"/>
@@ -1458,7 +1458,7 @@
                 <zone xml:id="zone_01M7DF2DFP0H7ZJEWZRV5TBPXZ" type="measure" ulx="3103" uly="2050" lrx="3384" lry="2573"/>
             </surface>
             <surface xml:id="surface_01M7DF2DFP8R2GKF89WBRXBTD5" n="57" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DFQ4FYMGQCQNN837ZGJ" target="20251230_181440.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DFQ4FYMGQCQNN837ZGJ" target="facsimile/20251230_181440.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DFQD10JFZ9222JRE4PY" type="measure" ulx="531" uly="424" lrx="986" lry="934"/>
                 <zone xml:id="zone_01M7DF2DFQVS6VDMMZEWYETPMV" type="measure" ulx="951" uly="441" lrx="1472" lry="941"/>
                 <zone xml:id="zone_01M7DF2DFQAW892S5S44VF7TAT" type="measure" ulx="1446" uly="451" lrx="1963" lry="970"/>
@@ -1488,7 +1488,7 @@
                 <zone xml:id="zone_01M7DF2DFSD6Y50SF042WP1B7F" type="measure" ulx="2964" uly="1964" lrx="3452" lry="2519"/>
             </surface>
             <surface xml:id="surface_01M7DF2DFS6K5GXM801C82BXXN" n="58" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DFTXKZ9WBGKQV8J667S" target="20251230_181506.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DFTXKZ9WBGKQV8J667S" target="facsimile/20251230_181506.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DFTQ5QH3KWEPJS6CNGN" type="measure" ulx="420" uly="346" lrx="1018" lry="927"/>
                 <zone xml:id="zone_01M7DF2DFTZN3PYR7ZMGZ4X41Z" type="measure" ulx="971" uly="352" lrx="1346" lry="924"/>
                 <zone xml:id="zone_01M7DF2DFT4N29593XVA6K6XKK" type="measure" ulx="1298" uly="365" lrx="1658" lry="923"/>
@@ -1517,7 +1517,7 @@
                 <zone xml:id="zone_01M7DF2DFYENJA5XRNNZDQZ90F" type="measure" ulx="2850" uly="2000" lrx="3327" lry="2549"/>
             </surface>
             <surface xml:id="surface_01M7DF2DFY8TMGB3NEAPW2VC4F" n="59" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DFY8G3V7084Q8CEQBHJ" target="20251230_181514.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DFY8G3V7084Q8CEQBHJ" target="facsimile/20251230_181514.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DFYSPMBQVX1WS63BY34" type="measure" ulx="561" uly="490" lrx="1027" lry="1009"/>
                 <zone xml:id="zone_01M7DF2DFYCEB5HQX8THAR3SNM" type="measure" ulx="1001" uly="502" lrx="1455" lry="1032"/>
                 <zone xml:id="zone_01M7DF2DFZ7T7AP1W2RNF3TDM8" type="measure" ulx="1428" uly="500" lrx="1892" lry="1040"/>
@@ -1548,7 +1548,7 @@
                 <zone xml:id="zone_01M7DF2DG2YFJ9ASPAMTHN0CC8" type="measure" ulx="2902" uly="2105" lrx="3435" lry="2571"/>
             </surface>
             <surface xml:id="surface_01M7DF2DG3F7PCSEXER6WFQ2MC" n="60" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DG3KEDSTX1DTJFP5G2T" target="20251230_181537.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DG3KEDSTX1DTJFP5G2T" target="facsimile/20251230_181537.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DG3113CA7XS5Q5SSCE7" type="measure" ulx="486" uly="378" lrx="919" lry="917"/>
                 <zone xml:id="zone_01M7DF2DG384TBYAVGP9MV283D" type="measure" ulx="864" uly="411" lrx="1220" lry="916"/>
                 <zone xml:id="zone_01M7DF2DG3TTEAESYFJ2CF0C81" type="measure" ulx="1177" uly="408" lrx="1512" lry="940"/>
@@ -1587,7 +1587,7 @@
                 <zone xml:id="zone_01M7DF2DG9G0H0Y1MGCKNECKX7" type="measure" ulx="3117" uly="2055" lrx="3482" lry="2663"/>
             </surface>
             <surface xml:id="surface_01M7DF2DG9Z8WD7YG8M3SPK58B" n="61" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DGAER256VS1VQVJHYWW" target="20251230_181546.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DGAER256VS1VQVJHYWW" target="facsimile/20251230_181546.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DGA9C9HHJPH7NXSC5F2" type="measure" ulx="451" uly="519" lrx="1171" lry="997"/>
                 <zone xml:id="zone_01M7DF2DGAKHX5DJTDXS7ADHTK" type="measure" ulx="1114" uly="571" lrx="1496" lry="999"/>
                 <zone xml:id="zone_01M7DF2DGABKWJ9NNP08QEFWR9" type="measure" ulx="1455" uly="585" lrx="1806" lry="1013"/>
@@ -1621,7 +1621,7 @@
                 <zone xml:id="zone_01M7DF2DGF8B4FRTJEV3TBRA3Y" type="measure" ulx="2924" uly="2048" lrx="3350" lry="2507"/>
             </surface>
             <surface xml:id="surface_01M7DF2DGFP0V2DBCER6FZXH3K" n="62" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DGFWBMVEW38BK1RVKTS" target="20251230_181610.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DGFWBMVEW38BK1RVKTS" target="facsimile/20251230_181610.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DGF2EC0P1JKB85JCNV3" type="measure" ulx="573" uly="361" lrx="1147" lry="887"/>
                 <zone xml:id="zone_01M7DF2DGFT2Y4G7WEVTFXR3ZR" type="measure" ulx="1098" uly="386" lrx="1411" lry="899"/>
                 <zone xml:id="zone_01M7DF2DGGSPQPMR1JC5CJR63D" type="measure" ulx="1382" uly="399" lrx="1620" lry="930"/>
@@ -1658,7 +1658,7 @@
                 <zone xml:id="zone_01M7DF2DGN1MXVXB7XEB15JWNP" type="measure" ulx="3051" uly="1997" lrx="3511" lry="2508"/>
             </surface>
             <surface xml:id="surface_01M7DF2DGNMTTTXQAWV3PTA1YF" n="63" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DGNH52E46PMFSTX3FAV" target="20251230_181621.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DGNH52E46PMFSTX3FAV" target="facsimile/20251230_181621.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DGNRS5JK7ASF9DZ5GE6" type="measure" ulx="551" uly="430" lrx="1020" lry="955"/>
                 <zone xml:id="zone_01M7DF2DGN2XSCG7Z1A1AZ1QWC" type="measure" ulx="978" uly="460" lrx="1423" lry="971"/>
                 <zone xml:id="zone_01M7DF2DGNA06YQM03MHAWNYFK" type="measure" ulx="1387" uly="453" lrx="1820" lry="998"/>
@@ -1687,7 +1687,7 @@
                 <zone xml:id="zone_01M7DF2DGSM5SJ6848DXJQ1ND2" type="measure" ulx="3062" uly="1971" lrx="3464" lry="2496"/>
             </surface>
             <surface xml:id="surface_01M7DF2DGS5NGZ5FMMA5R2BZH6" n="64" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DGSZ2W3QF73JQC109KH" target="20251230_181644.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DGSZ2W3QF73JQC109KH" target="facsimile/20251230_181644.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DGSX586M4HDW71RNMMM" type="measure" ulx="583" uly="390" lrx="930" lry="953"/>
                 <zone xml:id="zone_01M7DF2DGS561NHNSH40J6TB3E" type="measure" ulx="880" uly="401" lrx="1260" lry="962"/>
                 <zone xml:id="zone_01M7DF2DGS4P86PDH1YMZ7Y6GY" type="measure" ulx="1207" uly="405" lrx="1614" lry="964"/>
@@ -1722,7 +1722,7 @@
                 <zone xml:id="zone_01M7DF2DGYBKDDY3FMWPY09WNV" type="measure" ulx="3039" uly="2085" lrx="3458" lry="2565"/>
             </surface>
             <surface xml:id="surface_01M7DF2DGYNJZKQ8JC8QPQ826M" n="65" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DGZ6V69G1A36YKZ7V0Y" target="20251230_181652.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DGZ6V69G1A36YKZ7V0Y" target="facsimile/20251230_181652.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DGZ6PTYVSCA8PDNB8M2" type="measure" ulx="522" uly="430" lrx="986" lry="964"/>
                 <zone xml:id="zone_01M7DF2DGZEVKZ8T6P8300SBX4" type="measure" ulx="935" uly="460" lrx="1304" lry="975"/>
                 <zone xml:id="zone_01M7DF2DGZMC1A4AZVFNM735X3" type="measure" ulx="1274" uly="472" lrx="1644" lry="941"/>
@@ -1759,7 +1759,7 @@
                 <zone xml:id="zone_01M7DF2DH4X6DRWZNFXWDYBS28" type="measure" ulx="3105" uly="1982" lrx="3369" lry="2460"/>
             </surface>
             <surface xml:id="surface_01M7DF2DH51M83F0EC42YGKKPY" n="66" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DH533C8C1F1WRBV7PDK" target="20251230_181718.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DH533C8C1F1WRBV7PDK" target="facsimile/20251230_181718.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DH5YNKZ8TW1YG30HPJ1" type="measure" ulx="508" uly="376" lrx="880" lry="897"/>
                 <zone xml:id="zone_01M7DF2DH5RZ41ZWCGT9JT16S5" type="measure" ulx="829" uly="407" lrx="1169" lry="907"/>
                 <zone xml:id="zone_01M7DF2DH5NQ57GHP8DVFHPGE7" type="measure" ulx="1121" uly="415" lrx="1523" lry="929"/>
@@ -1796,7 +1796,7 @@
                 <zone xml:id="zone_01M7DF2DHAZXMTH7ZZ4365Z4CA" type="measure" ulx="3095" uly="2003" lrx="3479" lry="2581"/>
             </surface>
             <surface xml:id="surface_01M7DF2DHB12Q93YSDYJNX4YBN" n="67" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DHBF9XBQN0D09E7R3NC" target="20251230_181727.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DHBF9XBQN0D09E7R3NC" target="facsimile/20251230_181727.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DHBHY8V7T1E3CT44SAW" type="measure" ulx="493" uly="430" lrx="871" lry="937"/>
                 <zone xml:id="zone_01M7DF2DHB504ESWM398DEV4FK" type="measure" ulx="517" uly="464" lrx="2409" lry="909"/>
                 <zone xml:id="zone_01M7DF2DHBF0JABXMZVJ4G3XSA" type="measure" ulx="833" uly="462" lrx="1077" lry="932"/>
@@ -1844,7 +1844,7 @@
                 <zone xml:id="zone_01M7DF2DHJQV3SY458PDWK9P49" type="measure" ulx="3179" uly="1992" lrx="3413" lry="2536"/>
             </surface>
             <surface xml:id="surface_01M7DF2DHJAPVB15PZXTS68JPW" n="68" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DHKQKKFQ9VDK2SN6RMR" target="20251230_181749.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DHKQKKFQ9VDK2SN6RMR" target="facsimile/20251230_181749.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DHKH1BW76H3AYJVD5V5" type="measure" ulx="487" uly="415" lrx="1065" lry="928"/>
                 <zone xml:id="zone_01M7DF2DHKKZBWRZ06SAJ3T0VM" type="measure" ulx="1019" uly="439" lrx="1353" lry="944"/>
                 <zone xml:id="zone_01M7DF2DHKK56NNZ4M8RA3V2ZP" type="measure" ulx="1310" uly="447" lrx="1639" lry="950"/>
@@ -1876,7 +1876,7 @@
                 <zone xml:id="zone_01M7DF2DHR6PCF1F8FGXBV25E5" type="measure" ulx="2871" uly="2094" lrx="3424" lry="2618"/>
             </surface>
             <surface xml:id="surface_01M7DF2DHRD0TTP61V094SQZX8" n="69" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DHRKHE3SEDWQWVJC4M6" target="20251230_181757.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DHRKHE3SEDWQWVJC4M6" target="facsimile/20251230_181757.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DHRB268B5KWA0PHJHGV" type="measure" ulx="537" uly="432" lrx="1020" lry="947"/>
                 <zone xml:id="zone_01M7DF2DHRE3FYJQ18HM6D88VS" type="measure" ulx="980" uly="455" lrx="1411" lry="978"/>
                 <zone xml:id="zone_01M7DF2DHSQBCR87MXD4V7B8CJ" type="measure" ulx="1363" uly="457" lrx="1792" lry="962"/>
@@ -1908,7 +1908,7 @@
                 <zone xml:id="zone_01M7DF2DHXKHFHJKWSCGMR75BJ" type="measure" ulx="3131" uly="1912" lrx="3419" lry="2490"/>
             </surface>
             <surface xml:id="surface_01M7DF2DHX17EHZV496TEEB7QJ" n="70" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DHXP1MJ18ZRD2B53HK8" target="20251230_181827.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DHXP1MJ18ZRD2B53HK8" target="facsimile/20251230_181827.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DHXG98S17JKVCRB68JY" type="measure" ulx="486" uly="345" lrx="900" lry="891"/>
                 <zone xml:id="zone_01M7DF2DHYVM10WSANN8H44FGZ" type="measure" ulx="840" uly="373" lrx="1195" lry="899"/>
                 <zone xml:id="zone_01M7DF2DHYSQ14440Y1ED1KQX7" type="measure" ulx="1141" uly="369" lrx="1529" lry="920"/>
@@ -1940,7 +1940,7 @@
                 <zone xml:id="zone_01M7DF2DJ2XQ6D3VF6ZPZ6WQ0B" type="measure" ulx="2877" uly="2005" lrx="3380" lry="2501"/>
             </surface>
             <surface xml:id="surface_01M7DF2DJ2FMTMEC6EYRZGZSW5" n="71" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DJ2WQ8V5VWDWXE67XGF" target="20251230_181835.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DJ2WQ8V5VWDWXE67XGF" target="facsimile/20251230_181835.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DJ2Z667RBQ3KWJ2NCBM" type="measure" ulx="544" uly="347" lrx="1054" lry="885"/>
                 <zone xml:id="zone_01M7DF2DJ3TNXC5NBCX3S2TKS1" type="measure" ulx="1015" uly="394" lrx="1449" lry="896"/>
                 <zone xml:id="zone_01M7DF2DJ3R8NS12VH203NXC6X" type="measure" ulx="1413" uly="422" lrx="1855" lry="889"/>
@@ -1969,7 +1969,7 @@
                 <zone xml:id="zone_01M7DF2DJ52ERBA9PDX82KNW1A" type="measure" ulx="2851" uly="1907" lrx="3381" lry="2418"/>
             </surface>
             <surface xml:id="surface_01M7DF2DJ51YMQQYDH53KTA1BW" n="72" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DJ52WY8CSQC16RE1Y81" target="20251230_181853.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DJ52WY8CSQC16RE1Y81" target="facsimile/20251230_181853.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DJ6JAXWKH6Z51AFFN37" type="measure" ulx="530" uly="420" lrx="1011" lry="918"/>
                 <zone xml:id="zone_01M7DF2DJ63B0D73ZGZHFZ8V37" type="measure" ulx="965" uly="447" lrx="1515" lry="963"/>
                 <zone xml:id="zone_01M7DF2DJ6ZD85JHEFPPJ0KP58" type="measure" ulx="1479" uly="471" lrx="1994" lry="960"/>
@@ -1997,7 +1997,7 @@
                 <zone xml:id="zone_01M7DF2DJAK5ZM08QM6RJ33Y7B" type="measure" ulx="3179" uly="1979" lrx="3479" lry="2534"/>
             </surface>
             <surface xml:id="surface_01M7DF2DJA090HP6QTJXG4RVDH" n="73" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DJASBGM0K6973GHP2K0" target="20251230_181904.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DJASBGM0K6973GHP2K0" target="facsimile/20251230_181904.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DJA0SM4BMDBNN87EMS7" type="measure" ulx="445" uly="444" lrx="1068" lry="963"/>
                 <zone xml:id="zone_01M7DF2DJAA0P7K8WZ5FHHE2VG" type="measure" ulx="1014" uly="487" lrx="1295" lry="974"/>
                 <zone xml:id="zone_01M7DF2DJARNN1DSFYH6Y9ZSFN" type="measure" ulx="1261" uly="490" lrx="1552" lry="1005"/>
@@ -2044,7 +2044,7 @@
                 <zone xml:id="zone_01M7DF2DJF6KMJ2AKA9MAYCTEX" type="measure" ulx="3028" uly="2002" lrx="3335" lry="2482"/>
             </surface>
             <surface xml:id="surface_01M7DF2DJFMN936BYKRN0D4FJ9" n="74" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DJFP0KCJCRQZP2WBP2W" target="20251230_181929.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DJFP0KCJCRQZP2WBP2W" target="facsimile/20251230_181929.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DJFHVA62ZW4ZHNP99NG" type="measure" ulx="521" uly="515" lrx="1024" lry="1005"/>
                 <zone xml:id="zone_01M7DF2DJF3C902EPASQX38XZQ" type="measure" ulx="984" uly="529" lrx="1249" lry="1031"/>
                 <zone xml:id="zone_01M7DF2DJF40MNM67AF5XB5ZAK" type="measure" ulx="1197" uly="553" lrx="1463" lry="1042"/>
@@ -2082,7 +2082,7 @@
                 <zone xml:id="zone_01M7DF2DJK6CX1F1PN0WNWZMCZ" type="measure" ulx="3019" uly="2111" lrx="3431" lry="2620"/>
             </surface>
             <surface xml:id="surface_01M7DF2DJKQ995QG3AZ4TGDXEC" n="75" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DJKH1Q672XD1R7PJAM3" target="20251230_181939.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DJKH1Q672XD1R7PJAM3" target="facsimile/20251230_181939.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DJKP42N79Z1HD2JK24W" type="measure" ulx="517" uly="428" lrx="1174" lry="956"/>
                 <zone xml:id="zone_01M7DF2DJKFPD50XMDZWW84NB6" type="measure" ulx="1122" uly="463" lrx="1483" lry="965"/>
                 <zone xml:id="zone_01M7DF2DJKYJDRTWQQ0SZ6QV5P" type="measure" ulx="1445" uly="476" lrx="1766" lry="958"/>
@@ -2115,7 +2115,7 @@
                 <zone xml:id="zone_01M7DF2DJPDYJY4WSSYBJ2GD6W" type="measure" ulx="2853" uly="1985" lrx="3356" lry="2476"/>
             </surface>
             <surface xml:id="surface_01M7DF2DJP92GA1M27MHQJFE4T" n="76" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DJPAXYQ1PRYJMBSNPAH" target="20251230_182004.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DJPAXYQ1PRYJMBSNPAH" target="facsimile/20251230_182004.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DJPXC61A4SX18BRKD47" type="measure" ulx="544" uly="348" lrx="1208" lry="899"/>
                 <zone xml:id="zone_01M7DF2DJQ4HNGEE2B7HMHQ023" type="measure" ulx="1151" uly="386" lrx="1580" lry="911"/>
                 <zone xml:id="zone_01M7DF2DJQQST8VYR8H8VBGEBA" type="measure" ulx="1531" uly="384" lrx="2026" lry="916"/>
@@ -2144,7 +2144,7 @@
                 <zone xml:id="zone_01M7DF2DJX5401F69YAGTVHGJX" type="measure" ulx="2979" uly="2044" lrx="3500" lry="2550"/>
             </surface>
             <surface xml:id="surface_01M7DF2DJXRG8MFZYGM2R8BPXW" n="77" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DJXZTXTYMKDRS1SR5XX" target="20251230_182014.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DJXZTXTYMKDRS1SR5XX" target="facsimile/20251230_182014.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DJX1XCWAW6KZ3CCW8WW" type="measure" ulx="676" uly="500" lrx="1058" lry="1041"/>
                 <zone xml:id="zone_01M7DF2DJXC9AX788NH9XCNC14" type="measure" ulx="1009" uly="512" lrx="1356" lry="1057"/>
                 <zone xml:id="zone_01M7DF2DJYKRB3XDAWV9H2ZYPJ" type="measure" ulx="1310" uly="524" lrx="1686" lry="1052"/>
@@ -2176,7 +2176,7 @@
                 <zone xml:id="zone_01M7DF2DK1DCR6E2470E7TJNPQ" type="measure" ulx="3046" uly="2049" lrx="3500" lry="2563"/>
             </surface>
             <surface xml:id="surface_01M7DF2DK1R4M08Y1H7TY0E1YP" n="78" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DK1KPV7DTTY6RDPF109" target="20251230_182038.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DK1KPV7DTTY6RDPF109" target="facsimile/20251230_182038.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DK1TM9DV10277H7DWYS" type="measure" ulx="489" uly="378" lrx="1078" lry="943"/>
                 <zone xml:id="zone_01M7DF2DK18DD66BFM6KJ5SD82" type="measure" ulx="1025" uly="387" lrx="1636" lry="942"/>
                 <zone xml:id="zone_01M7DF2DK2650Y5ZJK14473PF5" type="measure" ulx="1591" uly="404" lrx="1919" lry="923"/>
@@ -2206,7 +2206,7 @@
                 <zone xml:id="zone_01M7DF2DK617TQPS6QA7RNVHTJ" type="measure" ulx="3112" uly="2002" lrx="3443" lry="2466"/>
             </surface>
             <surface xml:id="surface_01M7DF2DK6FHQTSER6ZNE4KY21" n="79" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DK60SQ876AZHDVTBAEG" target="20251230_182049.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DK60SQ876AZHDVTBAEG" target="facsimile/20251230_182049.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DK7DYV33BTWP5D6F1JN" type="measure" ulx="420" uly="466" lrx="895" lry="1017"/>
                 <zone xml:id="zone_01M7DF2DK74CN1WE65DRG6P355" type="measure" ulx="856" uly="497" lrx="1293" lry="1013"/>
                 <zone xml:id="zone_01M7DF2DK7MPK7AEKY89VW6KAH" type="measure" ulx="1253" uly="511" lrx="1755" lry="1029"/>
@@ -2233,7 +2233,7 @@
                 <zone xml:id="zone_01M7DF2DKA09M3DVRPXRMSGS3R" type="measure" ulx="3003" uly="2016" lrx="3326" lry="2494"/>
             </surface>
             <surface xml:id="surface_01M7DF2DKAM2W5SW293BX89TQB" n="80" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DKAP3REPCP37RX054Y1" target="20251230_182124.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DKAP3REPCP37RX054Y1" target="facsimile/20251230_182124.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DKA48TY65H78RKVZRZX" type="measure" ulx="517" uly="398" lrx="1273" lry="975"/>
                 <zone xml:id="zone_01M7DF2DKANRH1HXJTRZ4E23FX" type="measure" ulx="1225" uly="467" lrx="1726" lry="997"/>
                 <zone xml:id="zone_01M7DF2DKA8K0T1K3C62KP7TPA" type="measure" ulx="1684" uly="451" lrx="2185" lry="978"/>
@@ -2264,7 +2264,7 @@
                 <zone xml:id="zone_01M7DF2DKEG59QAX91PM0EC9YY" type="measure" ulx="3027" uly="1999" lrx="3506" lry="2602"/>
             </surface>
             <surface xml:id="surface_01M7DF2DKFPX2GP6HTCKZG31YN" n="81" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DKFF0VFY0F33EQ0HBNC" target="20251230_182131.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DKFF0VFY0F33EQ0HBNC" target="facsimile/20251230_182131.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DKF5B666A4ZYN63F68F" type="measure" ulx="540" uly="423" lrx="1142" lry="955"/>
                 <zone xml:id="zone_01M7DF2DKFDFAKEBZ4H5V7QJ1D" type="measure" ulx="1098" uly="457" lrx="1408" lry="960"/>
                 <zone xml:id="zone_01M7DF2DKFB91EYBRWJWRR5SHH" type="measure" ulx="1358" uly="462" lrx="1685" lry="988"/>
@@ -2307,7 +2307,7 @@
                 <zone xml:id="zone_01M7DF2DKNSZXETSJ2QSXXXYE4" type="measure" ulx="3228" uly="1994" lrx="3496" lry="2439"/>
             </surface>
             <surface xml:id="surface_01M7DF2DKNJJQ43AJS4JM8AHCB" n="82" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DKPH2V242FB99J5SD01" target="20251230_182152.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DKPH2V242FB99J5SD01" target="facsimile/20251230_182152.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DKP5FJTD7THMSZSRDKK" type="measure" ulx="379" uly="361" lrx="1066" lry="892"/>
                 <zone xml:id="zone_01M7DF2DKP1PR810PHYR1KZQ3N" type="measure" ulx="1021" uly="390" lrx="1460" lry="895"/>
                 <zone xml:id="zone_01M7DF2DKPQDRGGANV18JN4EC7" type="measure" ulx="1412" uly="399" lrx="1858" lry="899"/>
@@ -2346,7 +2346,7 @@
                 <zone xml:id="zone_01M7DF2DKVJ68BDZV50ZSAKFN1" type="measure" ulx="3024" uly="2020" lrx="3276" lry="2534"/>
             </surface>
             <surface xml:id="surface_01M7DF2DKWCNY8NQBQ4AG6PZTP" n="83" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DKW09S21AQJKQSBH1V0" target="20251230_182204.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DKW09S21AQJKQSBH1V0" target="facsimile/20251230_182204.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DKWZZGE2E7CRGY0W2D5" type="measure" ulx="433" uly="411" lrx="1055" lry="945"/>
                 <zone xml:id="zone_01M7DF2DKWXHCK2ZERR5W0K8MT" type="measure" ulx="1002" uly="443" lrx="1328" lry="964"/>
                 <zone xml:id="zone_01M7DF2DKW84QC9DMEKHD4VNDZ" type="measure" ulx="1291" uly="477" lrx="1607" lry="955"/>
@@ -2388,7 +2388,7 @@
                 <zone xml:id="zone_01M7DF2DM28Z13BNQ7WSNX5RT6" type="measure" ulx="3009" uly="1950" lrx="3278" lry="2571"/>
             </surface>
             <surface xml:id="surface_01M7DF2DM25MXFR4JMNKD55CDV" n="84" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DM2EC2YVMYTMW9Z4DET" target="20251230_182227.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DM2EC2YVMYTMW9Z4DET" target="facsimile/20251230_182227.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DM3CSA7X94QMH3QM18R" type="measure" ulx="576" uly="351" lrx="1054" lry="854"/>
                 <zone xml:id="zone_01M7DF2DM3SE8BX2HXMESF24HZ" type="measure" ulx="1015" uly="356" lrx="1448" lry="862"/>
                 <zone xml:id="zone_01M7DF2DM3G0NMKQQVGWH9219A" type="measure" ulx="1417" uly="356" lrx="1874" lry="899"/>
@@ -2421,7 +2421,7 @@
                 <zone xml:id="zone_01M7DF2DM6JWHJ8QM9KATB256V" type="measure" ulx="3218" uly="1970" lrx="3514" lry="2544"/>
             </surface>
             <surface xml:id="surface_01M7DF2DM6FMHYFTV5MNJ2CKN6" n="85" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DM629JNV2N3BTCBGZT1" target="20251230_182235.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DM629JNV2N3BTCBGZT1" target="facsimile/20251230_182235.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DM6N43GRDBA8SYJEFYQ" type="measure" ulx="541" uly="486" lrx="922" lry="970"/>
                 <zone xml:id="zone_01M7DF2DM6T2XSZJMV62WXFXX9" type="measure" ulx="866" uly="500" lrx="1065" lry="975"/>
                 <zone xml:id="zone_01M7DF2DM6Q5TXTTE546ZVHK33" type="measure" ulx="1026" uly="508" lrx="1208" lry="966"/>
@@ -2473,7 +2473,7 @@
                 <zone xml:id="zone_01M7DF2DMCHHXAMPDHXSA76TVC" type="measure" ulx="2959" uly="1983" lrx="3320" lry="2450"/>
             </surface>
             <surface xml:id="surface_01M7DF2DMCDGQ9HN7JD49KCAHZ" n="86" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DMCNQYK2HPSAHV9PZKD" target="20251230_182305.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DMCNQYK2HPSAHV9PZKD" target="facsimile/20251230_182305.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DMCFE49FM2ZND1BQ1CF" type="measure" ulx="487" uly="433" lrx="926" lry="921"/>
                 <zone xml:id="zone_01M7DF2DMC0XRQANE1042NQ5R0" type="measure" ulx="887" uly="424" lrx="1352" lry="938"/>
                 <zone xml:id="zone_01M7DF2DMDG8D3EXCWG7EERJK7" type="measure" ulx="1301" uly="433" lrx="1763" lry="969"/>
@@ -2503,7 +2503,7 @@
                 <zone xml:id="zone_01M7DF2DMH6GBV6BGCXRR5PN63" type="measure" ulx="2870" uly="2021" lrx="3387" lry="2525"/>
             </surface>
             <surface xml:id="surface_01M7DF2DMH7RHQ9GQ0CC43V2S8" n="87" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DMHSMW4YCYXK98SRCPC" target="20251230_182314.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DMHSMW4YCYXK98SRCPC" target="facsimile/20251230_182314.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DMHJAF6ZE6V8NPQW355" type="measure" ulx="419" uly="471" lrx="915" lry="999"/>
                 <zone xml:id="zone_01M7DF2DMH3X4RWSA6W2ATZF0X" type="measure" ulx="872" uly="496" lrx="1331" lry="984"/>
                 <zone xml:id="zone_01M7DF2DMJAH0778EKAMMV8J6A" type="measure" ulx="1294" uly="507" lrx="1717" lry="1020"/>
@@ -2533,7 +2533,7 @@
                 <zone xml:id="zone_01M7DF2DMPPPM1QXSHXC83ZG76" type="measure" ulx="2814" uly="1944" lrx="3256" lry="2445"/>
             </surface>
             <surface xml:id="surface_01M7DF2DMP3BA6EW230TJ5NMZQ" n="88" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DMPMT6T53M2RBSMAP26" target="20251230_182336.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DMPMT6T53M2RBSMAP26" target="facsimile/20251230_182336.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DMP1G5A70TP4ZRN8YXC" type="measure" ulx="577" uly="370" lrx="1100" lry="926"/>
                 <zone xml:id="zone_01M7DF2DMPZZHY1TED64TD6WFF" type="measure" ulx="1061" uly="397" lrx="1729" lry="916"/>
                 <zone xml:id="zone_01M7DF2DMP2X6HMA3PYYZ4JANT" type="measure" ulx="1711" uly="427" lrx="2372" lry="926"/>
@@ -2557,7 +2557,7 @@
                 <zone xml:id="zone_01M7DF2DMSFXYT5R3NRXBZK0SF" type="measure" ulx="3120" uly="1995" lrx="3506" lry="2551"/>
             </surface>
             <surface xml:id="surface_01M7DF2DMTVMHCGTG2H7G5F51B" n="89" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DMTA8QV8PSHXDM2QCT8" target="20251230_182349.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DMTA8QV8PSHXDM2QCT8" target="facsimile/20251230_182349.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DMTWRSVNDW15DEERACB" type="measure" ulx="464" uly="412" lrx="1275" lry="988"/>
                 <zone xml:id="zone_01M7DF2DMT12DHVEH2C6TTGS55" type="measure" ulx="1227" uly="443" lrx="1670" lry="990"/>
                 <zone xml:id="zone_01M7DF2DMTHJE96CVY56KWZKGJ" type="measure" ulx="1620" uly="445" lrx="2091" lry="972"/>
@@ -2586,7 +2586,7 @@
                 <zone xml:id="zone_01M7DF2DMYPQNXRRWNAJN9GKZH" type="measure" ulx="2906" uly="2049" lrx="3356" lry="2579"/>
             </surface>
             <surface xml:id="surface_01M7DF2DMY632JXBKDC1S9380D" n="90" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DMZ2HD03B4RG613X9NA" target="20251230_182415.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DMZ2HD03B4RG613X9NA" target="facsimile/20251230_182415.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DMZD6SZEBEGEBKRZFCB" type="measure" ulx="527" uly="409" lrx="1168" lry="978"/>
                 <zone xml:id="zone_01M7DF2DMZE1Q8WSGSF6Y0NNAJ" type="measure" ulx="1113" uly="435" lrx="1511" lry="994"/>
                 <zone xml:id="zone_01M7DF2DMZQXGN6NJSHDS805YH" type="measure" ulx="1464" uly="448" lrx="1934" lry="963"/>
@@ -2618,7 +2618,7 @@
                 <zone xml:id="zone_01M7DF2DN2QGYM7C8H3R84CCZT" type="measure" ulx="3011" uly="1993" lrx="3483" lry="2521"/>
             </surface>
             <surface xml:id="surface_01M7DF2DN2SNJ7B147YCZH8RRV" n="91" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DN3B7JDX8V3CDJ9P17G" target="20251230_182424.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DN3B7JDX8V3CDJ9P17G" target="facsimile/20251230_182424.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DN374FAB48757HSRVXK" type="measure" ulx="328" uly="384" lrx="762" lry="925"/>
                 <zone xml:id="zone_01M7DF2DN3709K58D1507J2E2Y" type="measure" ulx="720" uly="412" lrx="1210" lry="931"/>
                 <zone xml:id="zone_01M7DF2DN39CYEA7YF43CMTDAN" type="measure" ulx="1177" uly="414" lrx="1648" lry="975"/>
@@ -2649,7 +2649,7 @@
                 <zone xml:id="zone_01M7DF2DN6RZCBAXDX2BNEDY59" type="measure" ulx="2784" uly="2034" lrx="3264" lry="2533"/>
             </surface>
             <surface xml:id="surface_01M7DF2DN67T9Z16BE6CW7HT7X" n="92" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DN65A2VPG3Z1G38YP6Q" target="20251230_182453.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DN65A2VPG3Z1G38YP6Q" target="facsimile/20251230_182453.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DN6S5G0QGZHDS3CBPYR" type="measure" ulx="561" uly="422" lrx="992" lry="967"/>
                 <zone xml:id="zone_01M7DF2DN7DS2BCZPF0C87GB4A" type="measure" ulx="957" uly="443" lrx="1352" lry="964"/>
                 <zone xml:id="zone_01M7DF2DN7HQJXBMQT69GSZZV8" type="measure" ulx="1307" uly="457" lrx="1733" lry="976"/>
@@ -2679,7 +2679,7 @@
                 <zone xml:id="zone_01M7DF2DNAER9S32PE3DVQVCZ9" type="measure" ulx="2935" uly="2057" lrx="3483" lry="2605"/>
             </surface>
             <surface xml:id="surface_01M7DF2DNAEPHS57F2P278ZNE0" n="93" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DNAEDDYWTA58AH554P4" target="20251230_182503.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DNAEDDYWTA58AH554P4" target="facsimile/20251230_182503.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DNACDWEBV8S2J41D02Q" type="measure" ulx="391" uly="406" lrx="828" lry="964"/>
                 <zone xml:id="zone_01M7DF2DNAY7QZWJBCXJJX2GTH" type="measure" ulx="776" uly="425" lrx="1159" lry="973"/>
                 <zone xml:id="zone_01M7DF2DNBBKZSQEK4AZ6FYBKZ" type="measure" ulx="1127" uly="438" lrx="1513" lry="970"/>
@@ -2721,7 +2721,7 @@
                 <zone xml:id="zone_01M7DF2DNFZAFY8BEW0X8T6217" type="measure" ulx="3037" uly="1991" lrx="3295" lry="2523"/>
             </surface>
             <surface xml:id="surface_01M7DF2DNGY6HYEXQXAM654XNT" n="94" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DNGXW00SV7D0BHMPPBB" target="20251230_182526.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DNGXW00SV7D0BHMPPBB" target="facsimile/20251230_182526.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DNGTKSJHR50SJCYFP3V" type="measure" ulx="567" uly="377" lrx="1050" lry="895"/>
                 <zone xml:id="zone_01M7DF2DNG5895P0WNFQE2TDDG" type="measure" ulx="1023" uly="386" lrx="1562" lry="892"/>
                 <zone xml:id="zone_01M7DF2DNGD8GXAJ987MN855M5" type="measure" ulx="1513" uly="389" lrx="1962" lry="914"/>
@@ -2750,7 +2750,7 @@
                 <zone xml:id="zone_01M7DF2DNKRGKJYHEBJS2TW162" type="measure" ulx="3205" uly="1978" lrx="3491" lry="2520"/>
             </surface>
             <surface xml:id="surface_01M7DF2DNK0MVQBM6QYXVW7EZH" n="95" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DNMYD62CGBJ1N86P6QB" target="20251230_182535.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DNMYD62CGBJ1N86P6QB" target="facsimile/20251230_182535.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DNM9PX27NR4RVVSNEEV" type="measure" ulx="634" uly="422" lrx="1147" lry="966"/>
                 <zone xml:id="zone_01M7DF2DNM7F6AHDB2S3WMVN5F" type="measure" ulx="1108" uly="451" lrx="1720" lry="959"/>
                 <zone xml:id="zone_01M7DF2DNMNFAAH3BQ493WDQKR" type="measure" ulx="1678" uly="473" lrx="2313" lry="1001"/>
@@ -2776,7 +2776,7 @@
                 <zone xml:id="zone_01M7DF2DNRG3W69GBK01K7FQ7M" type="measure" ulx="3017" uly="1914" lrx="3423" lry="2550"/>
             </surface>
             <surface xml:id="surface_01M7DF2DNRD516ZFA3417JHH0G" n="96" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DNRATT6EQKVV9N0VAYQ" target="20251230_182600.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DNRATT6EQKVV9N0VAYQ" target="facsimile/20251230_182600.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DNR3PM1RJWT6SF40D6J" type="measure" ulx="466" uly="352" lrx="964" lry="856"/>
                 <zone xml:id="zone_01M7DF2DNRPGM5A0KB24B617M5" type="measure" ulx="915" uly="361" lrx="1570" lry="877"/>
                 <zone xml:id="zone_01M7DF2DNSJAVWPZA21D9JJ5N1" type="measure" ulx="1533" uly="379" lrx="2196" lry="898"/>
@@ -2797,7 +2797,7 @@
                 <zone xml:id="zone_01M7DF2DNTEQH5SC7W5ZFYC5EJ" type="measure" ulx="2801" uly="1960" lrx="3436" lry="2486"/>
             </surface>
             <surface xml:id="surface_01M7DF2DNTQ1HSPE9ECNNYAN35" n="97" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DNT14W6HGBHR9CAMVVE" target="20251230_182609.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DNT14W6HGBHR9CAMVVE" target="facsimile/20251230_182609.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DNTXJBX1R73E18BR6GK" type="measure" ulx="373" uly="385" lrx="865" lry="916"/>
                 <zone xml:id="zone_01M7DF2DNT4CX5BM0N3K4E3CWQ" type="measure" ulx="821" uly="434" lrx="1114" lry="919"/>
                 <zone xml:id="zone_01M7DF2DNV8VH28C612BGJBFJZ" type="measure" ulx="1083" uly="442" lrx="1352" lry="941"/>
@@ -2845,7 +2845,7 @@
                 <zone xml:id="zone_01M7DF2DPD5QTKHH967554Z48K" type="measure" ulx="3031" uly="1977" lrx="3325" lry="2436"/>
             </surface>
             <surface xml:id="surface_01M7DF2DPD65JYZ548E2FG9ZDW" n="98" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DPDMTH9MRSK96YTQFGG" target="20251230_182643.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DPDMTH9MRSK96YTQFGG" target="facsimile/20251230_182643.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DPDC6B3CMXZV1KY8NTH" type="measure" ulx="628" uly="350" lrx="1087" lry="889"/>
                 <zone xml:id="zone_01M7DF2DPEQVA1C9QYWWQFNM1A" type="measure" ulx="1057" uly="380" lrx="1535" lry="910"/>
                 <zone xml:id="zone_01M7DF2DPE2EGY5HR337RFXG82" type="measure" ulx="1501" uly="384" lrx="1968" lry="907"/>
@@ -2883,7 +2883,7 @@
                 <zone xml:id="zone_01M7DF2DPH94BTS73E03MDM7WN" type="measure" ulx="3254" uly="2070" lrx="3554" lry="2543"/>
             </surface>
             <surface xml:id="surface_01M7DF2DPHCH7Z3804GV9P9TK0" n="99" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DPJ65F2G7ZMKEEGW2BV" target="20251230_182703.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DPJ65F2G7ZMKEEGW2BV" target="facsimile/20251230_182703.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DPJWHSGT9ZG40VBA9K1" type="measure" ulx="500" uly="465" lrx="940" lry="1004"/>
                 <zone xml:id="zone_01M7DF2DPJCXC9RJZCWPD28YPV" type="measure" ulx="898" uly="482" lrx="1259" lry="1013"/>
                 <zone xml:id="zone_01M7DF2DPJGNHN3D6TBSFYXJBG" type="measure" ulx="1211" uly="503" lrx="1583" lry="994"/>
@@ -2938,7 +2938,7 @@
                 <zone xml:id="zone_01M7DF2DPRCBV5YJ25CG2DV0PE" type="measure" ulx="3130" uly="2011" lrx="3360" lry="2568"/>
             </surface>
             <surface xml:id="surface_01M7DF2DPSK4C921F6P0YRF79F" n="100" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DPSTS15B3PQ25Q8KMBS" target="20251230_182730.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DPSTS15B3PQ25Q8KMBS" target="facsimile/20251230_182730.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DPSWG99K0VEJPSZ3JPW" type="measure" ulx="607" uly="393" lrx="1038" lry="897"/>
                 <zone xml:id="zone_01M7DF2DPSP256EJA84CST2JGX" type="measure" ulx="997" uly="412" lrx="1471" lry="889"/>
                 <zone xml:id="zone_01M7DF2DPSRCHZ6VJG0TSX2B8T" type="measure" ulx="1439" uly="416" lrx="1893" lry="892"/>
@@ -2972,7 +2972,7 @@
                 <zone xml:id="zone_01M7DF2DPYVA6QNPN280NH4EAT" type="measure" ulx="3133" uly="2065" lrx="3542" lry="2574"/>
             </surface>
             <surface xml:id="surface_01M7DF2DPYX0GTJVW0W6QYT1TN" n="101" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DPZW5R52MF57WDVTTDR" target="20251230_182741.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DPZW5R52MF57WDVTTDR" target="facsimile/20251230_182741.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DPZGDRYQXMF1NZ637QM" type="measure" ulx="408" uly="406" lrx="1114" lry="924"/>
                 <zone xml:id="zone_01M7DF2DPZCC565YF1JH0WB3BQ" type="measure" ulx="1060" uly="439" lrx="1466" lry="935"/>
                 <zone xml:id="zone_01M7DF2DPZRGFWYQVADF0QA8EP" type="measure" ulx="1424" uly="467" lrx="1844" lry="929"/>
@@ -3003,7 +3003,7 @@
                 <zone xml:id="zone_01M7DF2DQ20AK6X7RPS8A5F20J" type="measure" ulx="2835" uly="1922" lrx="3266" lry="2379"/>
             </surface>
             <surface xml:id="surface_01M7DF2DQ2GPHGJ9SS37TD03Q8" n="102" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DQ3XHKS4V3YP72MQSF4" target="20251230_182804.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DQ3XHKS4V3YP72MQSF4" target="facsimile/20251230_182804.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DQ386XK9743MMSJA921" type="measure" ulx="590" uly="370" lrx="1500" lry="905"/>
                 <zone xml:id="zone_01M7DF2DQ3V9RHCPED4TGZ64HC" type="measure" ulx="1461" uly="420" lrx="1971" lry="928"/>
                 <zone xml:id="zone_01M7DF2DQ3XTK2TWNC0WBE1162" type="measure" ulx="1943" uly="425" lrx="2477" lry="947"/>
@@ -3029,7 +3029,7 @@
                 <zone xml:id="zone_01M7DF2DQ6HPQ63MP58JHXRS2F" type="measure" ulx="3015" uly="1974" lrx="3582" lry="2430"/>
             </surface>
             <surface xml:id="surface_01M7DF2DQ6Q5Y9JZ6MCMB4SR0H" n="103" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DQ6XKQC0EZHS22WDESX" target="20251230_182816.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DQ6XKQC0EZHS22WDESX" target="facsimile/20251230_182816.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DQ6X1XBYP4SBT2TKMD4" type="measure" ulx="367" uly="434" lrx="851" lry="999"/>
                 <zone xml:id="zone_01M7DF2DQ7MSDY06JZK1WRHEPR" type="measure" ulx="794" uly="471" lrx="1140" lry="1008"/>
                 <zone xml:id="zone_01M7DF2DQ7XDZHR0W9D27NC8GP" type="measure" ulx="1090" uly="494" lrx="1401" lry="1027"/>
@@ -3068,7 +3068,7 @@
                 <zone xml:id="zone_01M7DF2DQB5A6PVZCJJHY8CZWG" type="measure" ulx="3068" uly="1998" lrx="3336" lry="2541"/>
             </surface>
             <surface xml:id="surface_01M7DF2DQB0QEF6DB17M1TSTEN" n="104" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DQBA95ZMC63MMQ83833" target="20251230_182839.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DQBA95ZMC63MMQ83833" target="facsimile/20251230_182839.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DQB21B6SKR3E4XA2Q9R" type="measure" ulx="550" uly="344" lrx="962" lry="929"/>
                 <zone xml:id="zone_01M7DF2DQCM5MJTJY1T1HDM9Z4" type="measure" ulx="906" uly="380" lrx="1335" lry="920"/>
                 <zone xml:id="zone_01M7DF2DQCT3BVDQW4E9EABMHB" type="measure" ulx="1286" uly="396" lrx="1626" lry="928"/>
@@ -3105,7 +3105,7 @@
                 <zone xml:id="zone_01M7DF2DQGYZ4RBKZA36MEST69" type="measure" ulx="3222" uly="2025" lrx="3524" lry="2518"/>
             </surface>
             <surface xml:id="surface_01M7DF2DQGYJHJW2149B8JY1NP" n="105" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DQGK8R2NH8Q0Y7Q1P40" target="20251230_182900.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DQGK8R2NH8Q0Y7Q1P40" target="facsimile/20251230_182900.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DQGRXCME9XZ2GXJN4EQ" type="measure" ulx="394" uly="348" lrx="839" lry="869"/>
                 <zone xml:id="zone_01M7DF2DQHJBSPVGW3EMY9XZGD" type="measure" ulx="804" uly="371" lrx="1357" lry="876"/>
                 <zone xml:id="zone_01M7DF2DQHS3BEZF1RTFHPQQDN" type="measure" ulx="1318" uly="378" lrx="1866" lry="882"/>
@@ -3142,7 +3142,7 @@
                 <zone xml:id="zone_01M7DF2DQNPR4Q5E365DTY5SAX" type="measure" ulx="3104" uly="1994" lrx="3368" lry="2460"/>
             </surface>
             <surface xml:id="surface_01M7DF2DQNJ00KX8GBD80V4SMZ" n="106" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DQNRSQM20B2KXH3GEA7" target="20251230_182920.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DQNRSQM20B2KXH3GEA7" target="facsimile/20251230_182920.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DQNDRQDY70GZKJJGFMT" type="measure" ulx="581" uly="368" lrx="1285" lry="948"/>
                 <zone xml:id="zone_01M7DF2DQN6HVJKB050ZTX11ES" type="measure" ulx="1232" uly="418" lrx="1669" lry="963"/>
                 <zone xml:id="zone_01M7DF2DQPD0NK5HRD0NN14JY2" type="measure" ulx="1634" uly="421" lrx="2104" lry="975"/>
@@ -3169,7 +3169,7 @@
                 <zone xml:id="zone_01M7DF2DQR210W1B8VGYMD5R4R" type="measure" ulx="2980" uly="2066" lrx="3493" lry="2596"/>
             </surface>
             <surface xml:id="surface_01M7DF2DQR2D730BK83YMBFNFE" n="107" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DQSGVEWV97JKH32MFQG" target="20251230_182930.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DQSGVEWV97JKH32MFQG" target="facsimile/20251230_182930.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DQSE5MFS2XAB2H3KCVG" type="measure" ulx="521" uly="404" lrx="911" lry="949"/>
                 <zone xml:id="zone_01M7DF2DQS0CRHTZYVWTDCQGW5" type="measure" ulx="858" uly="425" lrx="1189" lry="934"/>
                 <zone xml:id="zone_01M7DF2DQSBSHQ4W3SB3C88G38" type="measure" ulx="1138" uly="440" lrx="1471" lry="927"/>
@@ -3206,7 +3206,7 @@
                 <zone xml:id="zone_01M7DF2DQZCBPAB5PSV9TM845G" type="measure" ulx="2920" uly="1968" lrx="3374" lry="2485"/>
             </surface>
             <surface xml:id="surface_01M7DF2DQZZJ611Q9T334J5M8C" n="108" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DQZW9XT6EFCFA8TCYES" target="20251230_182951.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DQZW9XT6EFCFA8TCYES" target="facsimile/20251230_182951.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DQZ1K393JCVK5WYRDYR" type="measure" ulx="538" uly="353" lrx="992" lry="879"/>
                 <zone xml:id="zone_01M7DF2DQZ2GHMR5C3EH4FRRPX" type="measure" ulx="942" uly="369" lrx="1413" lry="900"/>
                 <zone xml:id="zone_01M7DF2DR0C17EGQ6JSWJH7BJ9" type="measure" ulx="1370" uly="378" lrx="1853" lry="922"/>
@@ -3234,7 +3234,7 @@
                 <zone xml:id="zone_01M7DF2DR6XJJ61QS537F2JBBA" type="measure" ulx="3096" uly="1948" lrx="3429" lry="2498"/>
             </surface>
             <surface xml:id="surface_01M7DF2DR6X1K6K611N3SCXQ46" n="109" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DR6K9SEVARM7E45W6JZ" target="20251230_183006.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DR6K9SEVARM7E45W6JZ" target="facsimile/20251230_183006.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DR6CYN5AMDJCYDEZ4K3" type="measure" ulx="419" uly="423" lrx="876" lry="940"/>
                 <zone xml:id="zone_01M7DF2DR69T7T4D6ND0ZARKDF" type="measure" ulx="829" uly="442" lrx="1315" lry="951"/>
                 <zone xml:id="zone_01M7DF2DR77E7G9XG1G8MP8CFT" type="measure" ulx="1283" uly="491" lrx="1778" lry="952"/>
@@ -3263,7 +3263,7 @@
                 <zone xml:id="zone_01M7DF2DRAVXMWSQ1FYNT2W775" type="measure" ulx="2921" uly="2026" lrx="3304" lry="2514"/>
             </surface>
             <surface xml:id="surface_01M7DF2DRARBXX0F4FY3CHWXE9" n="110" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DRA4529QH7CH6FP293A" target="20251230_183027.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DRA4529QH7CH6FP293A" target="facsimile/20251230_183027.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DRAS89Z2T14AMRQMKN7" type="measure" ulx="644" uly="475" lrx="1611" lry="1068"/>
                 <zone xml:id="zone_01M7DF2DRA27JNZA67GWDBCZT0" type="measure" ulx="1559" uly="483" lrx="2249" lry="1069"/>
                 <zone xml:id="zone_01M7DF2DRBK2HX8V7MXTHC4GRW" type="measure" ulx="2199" uly="485" lrx="2798" lry="1075"/>
@@ -3284,7 +3284,7 @@
                 <zone xml:id="zone_01M7DF2DRDT4GDWSXEXN3Y10T5" type="measure" ulx="3221" uly="1804" lrx="3552" lry="2452"/>
             </surface>
             <surface xml:id="surface_01M7DF2DRDXETVAMXWSQZHF3W3" n="111" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DRDSA5KXVP19KGD049V" target="20251230_183042.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DRDSA5KXVP19KGD049V" target="facsimile/20251230_183042.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DRD0ANK83EKCC2Y7WPF" type="measure" ulx="555" uly="504" lrx="1467" lry="1029"/>
                 <zone xml:id="zone_01M7DF2DRD8PWNXS86FZ2T7D2D" type="measure" ulx="1429" uly="531" lrx="1967" lry="1032"/>
                 <zone xml:id="zone_01M7DF2DRD3TX1ZV332BVFAH99" type="measure" ulx="1918" uly="556" lrx="2341" lry="1038"/>
@@ -3310,7 +3310,7 @@
                 <zone xml:id="zone_01M7DF2DRGQSAGSBK0RT2DBGY0" type="measure" ulx="3001" uly="2014" lrx="3438" lry="2517"/>
             </surface>
             <surface xml:id="surface_01M7DF2DRGJ9HEY5G5YD7RTDQZ" n="112" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DRHEPR10B7MRMDB1272" target="20251230_183119.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DRHEPR10B7MRMDB1272" target="facsimile/20251230_183119.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DRHTPJ8FEKPVANAGJ4F" type="measure" ulx="510" uly="373" lrx="1159" lry="896"/>
                 <zone xml:id="zone_01M7DF2DRHA5DMVZZGC2RXF88Y" type="measure" ulx="1106" uly="399" lrx="1560" lry="914"/>
                 <zone xml:id="zone_01M7DF2DRH1WHBNZFATEN3SA54" type="measure" ulx="1516" uly="408" lrx="1935" lry="905"/>
@@ -3344,7 +3344,7 @@
                 <zone xml:id="zone_01M7DF2DRN6KTCVGCC9V29SD3D" type="measure" ulx="2935" uly="1989" lrx="3386" lry="2499"/>
             </surface>
             <surface xml:id="surface_01M7DF2DRNCC6SF62X0E1N5FC3" n="113" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DRN6QTNFKQNKB8TCVR6" target="20251230_183128.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DRN6QTNFKQNKB8TCVR6" target="facsimile/20251230_183128.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DRPB0E4XPXYH8R70THM" type="measure" ulx="545" uly="443" lrx="1369" lry="983"/>
                 <zone xml:id="zone_01M7DF2DRPJDMA48H689QV7REG" type="measure" ulx="1319" uly="460" lrx="1713" lry="972"/>
                 <zone xml:id="zone_01M7DF2DRPSXGZDVV98S7Z66B6" type="measure" ulx="1677" uly="514" lrx="2193" lry="952"/>
@@ -3371,7 +3371,7 @@
                 <zone xml:id="zone_01M7DF2DRS1S75XXZVG5XSXKME" type="measure" ulx="2895" uly="2024" lrx="3381" lry="2554"/>
             </surface>
             <surface xml:id="surface_01M7DF2DRSKYBNW1BGWM4129VR" n="114" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DRSXA602EYD6ZXW8XDR" target="20251230_183204.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DRSXA602EYD6ZXW8XDR" target="facsimile/20251230_183204.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DRS26BEDYXYRHXAXM76" type="measure" ulx="481" uly="390" lrx="1215" lry="932"/>
                 <zone xml:id="zone_01M7DF2DRS96EY9Q0TV1C8EZ0F" type="measure" ulx="1166" uly="430" lrx="1657" lry="955"/>
                 <zone xml:id="zone_01M7DF2DRS79091S4J3AETGHF8" type="measure" ulx="1613" uly="434" lrx="2078" lry="953"/>
@@ -3402,7 +3402,7 @@
                 <zone xml:id="zone_01M7DF2DS0K23X2BWNM2GZ3YSC" type="measure" ulx="2996" uly="1910" lrx="3420" lry="2478"/>
             </surface>
             <surface xml:id="surface_01M7DF2DS04N580N43YKWGJK4R" n="115" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DS1WMW2S0YRXSWAPD44" target="20251230_183225.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DS1WMW2S0YRXSWAPD44" target="facsimile/20251230_183225.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DS19ZFT8XD4M2AADA02" type="measure" ulx="582" uly="393" lrx="1097" lry="928"/>
                 <zone xml:id="zone_01M7DF2DS14QJGGC1W22G2SAGX" type="measure" ulx="1048" uly="418" lrx="1459" lry="927"/>
                 <zone xml:id="zone_01M7DF2DS17PY2EY7AFAPNMBEA" type="measure" ulx="1406" uly="425" lrx="1809" lry="943"/>
@@ -3436,7 +3436,7 @@
                 <zone xml:id="zone_01M7DF2DS5XGDYA20KK58X378D" type="measure" ulx="3044" uly="1966" lrx="3515" lry="2464"/>
             </surface>
             <surface xml:id="surface_01M7DF2DS53GDFRAHBZ63FM8AY" n="116" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DS54N16XRQYASRF9G5B" target="20251230_183249.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DS54N16XRQYASRF9G5B" target="facsimile/20251230_183249.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DS57J9PSTZK6H57H54B" type="measure" ulx="507" uly="423" lrx="1095" lry="995"/>
                 <zone xml:id="zone_01M7DF2DS6ED3HVTY8V7F7J97V" type="measure" ulx="1040" uly="455" lrx="1365" lry="986"/>
                 <zone xml:id="zone_01M7DF2DS6APEA2KGFV9M8ZGBF" type="measure" ulx="1332" uly="474" lrx="1549" lry="1007"/>
@@ -3482,7 +3482,7 @@
                 <zone xml:id="zone_01M7DF2DSBF0QBZA3KWT922YVY" type="measure" ulx="3151" uly="1951" lrx="3437" lry="2506"/>
             </surface>
             <surface xml:id="surface_01M7DF2DSBSNKSMGSKAG6FECZ5" n="117" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DSBSG3MJW4TBBE768Y2" target="20251230_183302.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DSBSG3MJW4TBBE768Y2" target="facsimile/20251230_183302.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DSBHVT6HM68W6N66MNY" type="measure" ulx="570" uly="432" lrx="1343" lry="958"/>
                 <zone xml:id="zone_01M7DF2DSCQG12V6H0726F8EJE" type="measure" ulx="1292" uly="449" lrx="1782" lry="1008"/>
                 <zone xml:id="zone_01M7DF2DSCMH5VYMR4YFZGJDRD" type="measure" ulx="1731" uly="481" lrx="2189" lry="978"/>
@@ -3509,7 +3509,7 @@
                 <zone xml:id="zone_01M7DF2DSF2YHRVGX37N3YBJPY" type="measure" ulx="2874" uly="1986" lrx="3446" lry="2505"/>
             </surface>
             <surface xml:id="surface_01M7DF2DSFG4RGY7F2S0ZW4YX6" n="118" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DSF28HZD06WSGWA719C" target="20251230_183333.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DSF28HZD06WSGWA719C" target="facsimile/20251230_183333.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DSFAG0EW69DWQ9XS62T" type="measure" ulx="531" uly="384" lrx="1424" lry="910"/>
                 <zone xml:id="zone_01M7DF2DSF5YSRTB8KN4VJM0CE" type="measure" ulx="1400" uly="387" lrx="1967" lry="939"/>
                 <zone xml:id="zone_01M7DF2DSF5J6PD2765GW10F4K" type="measure" ulx="1942" uly="441" lrx="2501" lry="949"/>
@@ -3540,7 +3540,7 @@
                 <zone xml:id="zone_01M7DF2DSJXARWE7XEVPXCA99T" type="measure" ulx="3263" uly="2062" lrx="3568" lry="2610"/>
             </surface>
             <surface xml:id="surface_01M7DF2DSJ7K77Q5FCCD25SF7S" n="119" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DSK7GMZWQC57C5726BB" target="20251230_183342.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DSK7GMZWQC57C5726BB" target="facsimile/20251230_183342.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DSK8GHYMC792MP5ZZ9M" type="measure" ulx="390" uly="316" lrx="1045" lry="898"/>
                 <zone xml:id="zone_01M7DF2DSK6YG2CFRWZTS7ZN3W" type="measure" ulx="980" uly="372" lrx="1384" lry="896"/>
                 <zone xml:id="zone_01M7DF2DSK7A1ZHPBK9RPSSWR5" type="measure" ulx="1334" uly="398" lrx="1754" lry="900"/>
@@ -3572,7 +3572,7 @@
                 <zone xml:id="zone_01M7DF2DSPNBRAZTAXH3FAHKR0" type="measure" ulx="2958" uly="2061" lrx="3399" lry="2569"/>
             </surface>
             <surface xml:id="surface_01M7DF2DSPA0SJ74NS0EKGEXJD" n="120" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DSPYSRC5HTMEK92HCTH" target="20251230_183408.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DSPYSRC5HTMEK92HCTH" target="facsimile/20251230_183408.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DSQ20X2MHJXKJGQ55YJ" type="measure" ulx="625" uly="352" lrx="1097" lry="904"/>
                 <zone xml:id="zone_01M7DF2DSQVPFRW2DZTQ57Y6HA" type="measure" ulx="1050" uly="375" lrx="1578" lry="879"/>
                 <zone xml:id="zone_01M7DF2DSQ0YNZ98QTPWJME30B" type="measure" ulx="1545" uly="369" lrx="2079" lry="931"/>
@@ -3603,7 +3603,7 @@
                 <zone xml:id="zone_01M7DF2DSTTPYE8VX55BF0FT9D" type="measure" ulx="3205" uly="1996" lrx="3505" lry="2547"/>
             </surface>
             <surface xml:id="surface_01M7DF2DSTQKYJR02564KRWM16" n="121" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DSTA5D8T8R1CN3JM5R1" target="20251230_183418.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DSTA5D8T8R1CN3JM5R1" target="facsimile/20251230_183418.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DSTCVPCY5J2NFN85H6X" type="measure" ulx="490" uly="369" lrx="930" lry="916"/>
                 <zone xml:id="zone_01M7DF2DSTVAQEPCP7V19CEB2Y" type="measure" ulx="880" uly="386" lrx="1238" lry="919"/>
                 <zone xml:id="zone_01M7DF2DSVPRDY4Q4TGWNPRTZ7" type="measure" ulx="1194" uly="408" lrx="1534" lry="920"/>
@@ -3645,7 +3645,7 @@
                 <zone xml:id="zone_01M7DF2DSZT6411KR4AW91RWG4" type="measure" ulx="2962" uly="1930" lrx="3316" lry="2406"/>
             </surface>
             <surface xml:id="surface_01M7DF2DSZEN90TRWXPGEX1E6T" n="122" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DSZB7H7C269NRQG499V" target="20251230_183438.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DSZB7H7C269NRQG499V" target="facsimile/20251230_183438.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DSZSA7GBS4XRYR7F394" type="measure" ulx="661" uly="416" lrx="1156" lry="971"/>
                 <zone xml:id="zone_01M7DF2DT052RJJ8PBJH2GQAF4" type="measure" ulx="1133" uly="441" lrx="1734" lry="962"/>
                 <zone xml:id="zone_01M7DF2DT0WAT8NFQFG4Q1NRPR" type="measure" ulx="1703" uly="438" lrx="2338" lry="977"/>
@@ -3675,7 +3675,7 @@
                 <zone xml:id="zone_01M7DF2DT2X05JZ7Q33M75XPYM" type="measure" ulx="3099" uly="2045" lrx="3571" lry="2527"/>
             </surface>
             <surface xml:id="surface_01M7DF2DT2FDBBAMVMXEVCZATS" n="123" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DT2K249EAJM7430AXWH" target="20251230_183448.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DT2K249EAJM7430AXWH" target="facsimile/20251230_183448.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DT2WM1EMP4R9HTKQRAG" type="measure" ulx="399" uly="427" lrx="832" lry="956"/>
                 <zone xml:id="zone_01M7DF2DT2VRAVCGM89QFAZEA2" type="measure" ulx="777" uly="442" lrx="1182" lry="962"/>
                 <zone xml:id="zone_01M7DF2DT2GG4P5XMMQ2ZQNHGP" type="measure" ulx="1143" uly="459" lrx="1534" lry="971"/>
@@ -3710,7 +3710,7 @@
                 <zone xml:id="zone_01M7DF2DT5BYBCPSKFZ0VJD1J3" type="measure" ulx="2934" uly="2061" lrx="3306" lry="2560"/>
             </surface>
             <surface xml:id="surface_01M7DF2DT5QB2JV5JN2BSE3G6F" n="124" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DT5YSGRB76D4BMZFBY7" target="20251230_183510.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DT5YSGRB76D4BMZFBY7" target="facsimile/20251230_183510.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DT5AJCRGN2AX5PY3SH1" type="measure" ulx="603" uly="402" lrx="1203" lry="945"/>
                 <zone xml:id="zone_01M7DF2DT6VWN494FSSCS5RKJB" type="measure" ulx="1144" uly="424" lrx="1483" lry="959"/>
                 <zone xml:id="zone_01M7DF2DT6H8HECFDM333B5WM7" type="measure" ulx="1450" uly="434" lrx="1748" lry="950"/>
@@ -3745,7 +3745,7 @@
                 <zone xml:id="zone_01M7DF2DTBH5WGJJRTVJ1S69Q1" type="measure" ulx="3249" uly="2018" lrx="3541" lry="2593"/>
             </surface>
             <surface xml:id="surface_01M7DF2DTBM3F2H3KG0C8FGTB3" n="125" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DTBP41EDYGTEXY37RRH" target="20251230_183534.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DTBP41EDYGTEXY37RRH" target="facsimile/20251230_183534.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DTBPTT10NWWJDVQJY3N" type="measure" ulx="541" uly="447" lrx="1307" lry="984"/>
                 <zone xml:id="zone_01M7DF2DTB7SQM59NMCPA6E0VT" type="measure" ulx="1251" uly="504" lrx="1639" lry="987"/>
                 <zone xml:id="zone_01M7DF2DTBZ3ZY81MX6VV2GS76" type="measure" ulx="1587" uly="532" lrx="1998" lry="1001"/>
@@ -3777,7 +3777,7 @@
                 <zone xml:id="zone_01M7DF2DTE60JV2GC9K2BS10NK" type="measure" ulx="2936" uly="2077" lrx="3364" lry="2579"/>
             </surface>
             <surface xml:id="surface_01M7DF2DTEA1NVA6MYYK5QECQS" n="126" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DTERSVS2WNX2YKG5DM1" target="20251230_183551.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DTERSVS2WNX2YKG5DM1" target="facsimile/20251230_183551.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DTEMNWCAVZHC9TM36CV" type="measure" ulx="588" uly="493" lrx="1023" lry="1155"/>
                 <zone xml:id="zone_01M7DF2DTEQ8T6RR77X1ZCJPHM" type="measure" ulx="950" uly="498" lrx="1304" lry="1149"/>
                 <zone xml:id="zone_01M7DF2DTE71XJ6GD4R9MSTEHZ" type="measure" ulx="1256" uly="514" lrx="1630" lry="1159"/>
@@ -3805,7 +3805,7 @@
                 <zone xml:id="zone_01M7DF2DTH3P1BAQ9BPKRPKZ8P" type="measure" ulx="3036" uly="1951" lrx="3522" lry="2549"/>
             </surface>
             <surface xml:id="surface_01M7DF2DTJJANJH19W9DH8QH46" n="127" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DTJDYJ7F9M32QRVVSWA" target="20251230_183624.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DTJDYJ7F9M32QRVVSWA" target="facsimile/20251230_183624.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DTJW2961MNTMT7NQ68S" type="measure" ulx="606" uly="372" lrx="1236" lry="901"/>
                 <zone xml:id="zone_01M7DF2DTJAS0T4M5FD44R2H6B" type="measure" ulx="1199" uly="414" lrx="1596" lry="905"/>
                 <zone xml:id="zone_01M7DF2DTJ8GK082HZSYMXPNB1" type="measure" ulx="1559" uly="436" lrx="1957" lry="912"/>
@@ -3837,7 +3837,7 @@
                 <zone xml:id="zone_01M7DF2DTPTGNDFRC8VJ36A45P" type="measure" ulx="3023" uly="1959" lrx="3488" lry="2489"/>
             </surface>
             <surface xml:id="surface_01M7DF2DTPY7F2651RZXC559B2" n="128" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DTPSFXJE6HWVFAXND4Y" target="20251230_183647.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DTPSFXJE6HWVFAXND4Y" target="facsimile/20251230_183647.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DTPDY7WA9AX33G2KQPS" type="measure" ulx="516" uly="412" lrx="1074" lry="967"/>
                 <zone xml:id="zone_01M7DF2DTPPVAJG32078VT8XTC" type="measure" ulx="1019" uly="465" lrx="1255" lry="937"/>
                 <zone xml:id="zone_01M7DF2DTQX4ZVSR2T8QFTP223" type="measure" ulx="1218" uly="481" lrx="1437" lry="948"/>
@@ -3879,7 +3879,7 @@
                 <zone xml:id="zone_01M7DF2DTV5MCXNYD6K9YCKJWE" type="measure" ulx="2888" uly="2007" lrx="3299" lry="2503"/>
             </surface>
             <surface xml:id="surface_01M7DF2DTW9SNC1M2ER6AB086J" n="129" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DTWAWR8FGMA65FZ7TMV" target="20251230_183659.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DTWAWR8FGMA65FZ7TMV" target="facsimile/20251230_183659.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DTW185ND9D4TH2477DC" type="measure" ulx="658" uly="319" lrx="1113" lry="875"/>
                 <zone xml:id="zone_01M7DF2DTWBVH1YJ7WXGQYZPT2" type="measure" ulx="1065" uly="352" lrx="1380" lry="875"/>
                 <zone xml:id="zone_01M7DF2DTWSKG3KKK43VHNX45V" type="measure" ulx="1343" uly="352" lrx="1664" lry="884"/>
@@ -3921,7 +3921,7 @@
                 <zone xml:id="zone_01M7DF2DV2DZQJZ0HHECVB335F" type="measure" ulx="3350" uly="2020" lrx="3654" lry="2508"/>
             </surface>
             <surface xml:id="surface_01M7DF2DV2NZENANGE1AQ34KPF" n="130" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DV3CGVX7043N4XV12WH" target="20251230_183723.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DV3CGVX7043N4XV12WH" target="facsimile/20251230_183723.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DV3VZXV6H5Q4QMPRE5Z" type="measure" ulx="412" uly="349" lrx="868" lry="883"/>
                 <zone xml:id="zone_01M7DF2DV3DH00C40REJBR18TE" type="measure" ulx="818" uly="370" lrx="1255" lry="890"/>
                 <zone xml:id="zone_01M7DF2DV38K5F9PF3JEQAAB10" type="measure" ulx="1216" uly="375" lrx="1677" lry="914"/>
@@ -3966,7 +3966,7 @@
                 <zone xml:id="zone_01M7DF2DV7P4S8YGSV08HBH0RA" type="measure" ulx="3100" uly="1997" lrx="3356" lry="2458"/>
             </surface>
             <surface xml:id="surface_01M7DF2DV745VS5WEM8J771XT9" n="131" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DV70EXHWZBWVGNYS33A" target="20251230_183732.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DV70EXHWZBWVGNYS33A" target="facsimile/20251230_183732.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DV7Z1E2M7454078VQFV" type="measure" ulx="496" uly="461" lrx="998" lry="989"/>
                 <zone xml:id="zone_01M7DF2DV771G6WM2XD4SBE36Z" type="measure" ulx="954" uly="488" lrx="1371" lry="983"/>
                 <zone xml:id="zone_01M7DF2DV81NR5GM50K9NWMVCV" type="measure" ulx="1345" uly="488" lrx="1747" lry="1020"/>
@@ -4001,7 +4001,7 @@
                 <zone xml:id="zone_01M7DF2DVBPBPK4FTXW4A3BEYE" type="measure" ulx="3121" uly="1997" lrx="3426" lry="2577"/>
             </surface>
             <surface xml:id="surface_01M7DF2DVBVPMEQS4JX0FTT42X" n="132" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DVBPSP46MKS461ET4Y9" target="20251230_183801.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DVBPSP46MKS461ET4Y9" target="facsimile/20251230_183801.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DVBXT9ESMP7GZK0022J" type="measure" ulx="790" uly="442" lrx="1285" lry="956"/>
                 <zone xml:id="zone_01M7DF2DVBKNP0GAV1E3CQP73K" type="measure" ulx="1254" uly="456" lrx="1732" lry="965"/>
                 <zone xml:id="zone_01M7DF2DVBJW5RTK14DE43NGHP" type="measure" ulx="1684" uly="464" lrx="2130" lry="974"/>
@@ -4031,7 +4031,7 @@
                 <zone xml:id="zone_01M7DF2DVF8Y6R8EZ4SXAC8M7C" type="measure" ulx="3199" uly="2013" lrx="3652" lry="2520"/>
             </surface>
             <surface xml:id="surface_01M7DF2DVF0B7SXFPPMCRVHVGE" n="133" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DVFHEVZT5XK22RAFW3F" target="20251230_183809.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DVFHEVZT5XK22RAFW3F" target="facsimile/20251230_183809.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DVF0JASEXS5TCN0QXR7" type="measure" ulx="545" uly="338" lrx="955" lry="877"/>
                 <zone xml:id="zone_01M7DF2DVFNV4G10ZHYTDVTW5T" type="measure" ulx="926" uly="368" lrx="1414" lry="886"/>
                 <zone xml:id="zone_01M7DF2DVF5SMM86EBYE17GKM3" type="measure" ulx="1364" uly="368" lrx="1783" lry="902"/>
@@ -4059,7 +4059,7 @@
                 <zone xml:id="zone_01M7DF2DVJHGHEM0QQS1S1KFR9" type="measure" ulx="2928" uly="1898" lrx="3455" lry="2431"/>
             </surface>
             <surface xml:id="surface_01M7DF2DVJ1032SJC99TWC4WYE" n="134" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DVKVCDZ39G69085AE03" target="20251230_183832.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DVKVCDZ39G69085AE03" target="facsimile/20251230_183832.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DVKT4BMYWW45Y6EGN9G" type="measure" ulx="780" uly="425" lrx="1213" lry="986"/>
                 <zone xml:id="zone_01M7DF2DVK024EE8VHPKHTDMKW" type="measure" ulx="1151" uly="457" lrx="1596" lry="987"/>
                 <zone xml:id="zone_01M7DF2DVKT6H48H6SABB3MYZR" type="measure" ulx="1549" uly="455" lrx="1993" lry="997"/>
@@ -4087,7 +4087,7 @@
                 <zone xml:id="zone_01M7DF2DVNKZ096ZWZMZE23B6Y" type="measure" ulx="3204" uly="2027" lrx="3752" lry="2548"/>
             </surface>
             <surface xml:id="surface_01M7DF2DVN94YA1CTT6CHDFFCD" n="135" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DVNBHFNAP6JGDK8WWX5" target="20251230_183851.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DVNBHFNAP6JGDK8WWX5" target="facsimile/20251230_183851.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DVN8D1V17HJ4DD67PVC" type="measure" ulx="495" uly="422" lrx="999" lry="935"/>
                 <zone xml:id="zone_01M7DF2DVNP80GC4A2TATXJGHQ" type="measure" ulx="965" uly="441" lrx="1472" lry="953"/>
                 <zone xml:id="zone_01M7DF2DVP3HV4PH5PFY63803J" type="measure" ulx="1427" uly="448" lrx="1834" lry="970"/>
@@ -4118,7 +4118,7 @@
                 <zone xml:id="zone_01M7DF2DVSFEHY8WRWSYJZY6V8" type="measure" ulx="3068" uly="2021" lrx="3468" lry="2526"/>
             </surface>
             <surface xml:id="surface_01M7DF2DVTCSKT3W8HEP2APDR2" n="136" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DVTSGAX97RTCP8NRYNS" target="20251230_183914.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DVTSGAX97RTCP8NRYNS" target="facsimile/20251230_183914.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DVT4HJHFCTBBXPCQFFK" type="measure" ulx="659" uly="376" lrx="1187" lry="917"/>
                 <zone xml:id="zone_01M7DF2DVTXNBKSKGSZXMA149P" type="measure" ulx="1160" uly="401" lrx="1768" lry="930"/>
                 <zone xml:id="zone_01M7DF2DVTZMZ7V6YAXNS690HD" type="measure" ulx="1748" uly="418" lrx="2400" lry="973"/>
@@ -4142,7 +4142,7 @@
                 <zone xml:id="zone_01M7DF2DVX76D9X4GXKZ95E7G9" type="measure" ulx="3082" uly="2102" lrx="3658" lry="2603"/>
             </surface>
             <surface xml:id="surface_01M7DF2DVXER29VVJQ2JXVT9JK" n="137" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DVXBJSAPD9FRNFS0E8H" target="20251230_183923.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DVXBJSAPD9FRNFS0E8H" target="facsimile/20251230_183923.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DVX0E9E9J67M3J35YER" type="measure" ulx="483" uly="532" lrx="1321" lry="1056"/>
                 <zone xml:id="zone_01M7DF2DVXGZNWY9N89615Z13C" type="measure" ulx="1281" uly="541" lrx="1783" lry="1067"/>
                 <zone xml:id="zone_01M7DF2DVXR6ZPETX67M8SNY35" type="measure" ulx="1749" uly="560" lrx="2328" lry="1048"/>
@@ -4165,7 +4165,7 @@
                 <zone xml:id="zone_01M7DF2DVZ2HCRCT34QJMT244Q" type="measure" ulx="2740" uly="2055" lrx="3338" lry="2558"/>
             </surface>
             <surface xml:id="surface_01M7DF2DVZTS0AST79GR07C2GG" n="138" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DVZB7DK8GA2WMB7DXY1" target="20251230_183944.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DVZB7DK8GA2WMB7DXY1" target="facsimile/20251230_183944.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DVZQ60GFNTYEHQ51YQY" type="measure" ulx="604" uly="416" lrx="1517" lry="990"/>
                 <zone xml:id="zone_01M7DF2DW0NV813493BQGPP2DR" type="measure" ulx="1486" uly="437" lrx="2130" lry="1004"/>
                 <zone xml:id="zone_01M7DF2DW0SQX5HK7FY4B8X194" type="measure" ulx="2091" uly="465" lrx="2496" lry="1025"/>
@@ -4188,10 +4188,10 @@
                 <zone xml:id="zone_01M7DF2DW4MP21XCPZHK7M3JXC" type="measure" ulx="3201" uly="2127" lrx="3696" lry="2657"/>
             </surface>
             <surface xml:id="surface_01M7DF2DW4CGYZ8R4W5KGDET6C" n="139" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DW5FRJXSXHHDB2TRQDE" target="20251230_183953.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DW5FRJXSXHHDB2TRQDE" target="facsimile/20251230_183953.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2DW5ZZHHW0HCNQRTD2N8" n="140" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DW5TMP9KVQZ0X4BECTP" target="20251230_184014.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DW5TMP9KVQZ0X4BECTP" target="facsimile/20251230_184014.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DW5P73ZY67Y5TTF5DCM" type="measure" ulx="576" uly="616" lrx="966" lry="1196"/>
                 <zone xml:id="zone_01M7DF2DW5TR1SE5SX8PQMG233" type="measure" ulx="861" uly="652" lrx="1253" lry="1196"/>
                 <zone xml:id="zone_01M7DF2DW5MQHA4DD622F9SWHJ" type="measure" ulx="1189" uly="644" lrx="1560" lry="1204"/>
@@ -4209,7 +4209,7 @@
                 <zone xml:id="zone_01M7DF2DW71G1B5A3RMD353BK5" type="measure" ulx="2535" uly="1919" lrx="3480" lry="2418"/>
             </surface>
             <surface xml:id="surface_01M7DF2DW75C034WJF2HHN5TVS" n="141" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DW73DRBFQ9QE21PVHE0" target="20251230_184023.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DW73DRBFQ9QE21PVHE0" target="facsimile/20251230_184023.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DW71GJN4PVGSHFWEZ5H" type="measure" ulx="522" uly="374" lrx="1327" lry="971"/>
                 <zone xml:id="zone_01M7DF2DW7TN36BNZZG50Y0PK7" type="measure" ulx="1280" uly="379" lrx="2311" lry="974"/>
                 <zone xml:id="zone_01M7DF2DW75DFSF50HZCY7AEVE" type="measure" ulx="2282" uly="381" lrx="3467" lry="943"/>
@@ -4227,7 +4227,7 @@
                 <zone xml:id="zone_01M7DF2DW90RE8XW4M2XREJR8F" type="measure" ulx="2559" uly="1977" lrx="3492" lry="2507"/>
             </surface>
             <surface xml:id="surface_01M7DF2DW9YZ6YMT651MD3WS11" n="142" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DW9RY5SSDPRH10GBGY8" target="20251230_184050.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DW9RY5SSDPRH10GBGY8" target="facsimile/20251230_184050.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DW9CD6X0V6GMWBD3BCJ" type="measure" ulx="620" uly="417" lrx="1331" lry="945"/>
                 <zone xml:id="zone_01M7DF2DW90ZB1MQZ0PQT26Y4N" type="measure" ulx="1289" uly="437" lrx="1773" lry="956"/>
                 <zone xml:id="zone_01M7DF2DWAV1XTZAWJ0F30DGJ9" type="measure" ulx="1734" uly="457" lrx="2210" lry="969"/>
@@ -4266,7 +4266,7 @@
                 <zone xml:id="zone_01M7DF2DWJCPRHXJ25RW54V206" type="measure" ulx="3193" uly="2040" lrx="3513" lry="2513"/>
             </surface>
             <surface xml:id="surface_01M7DF2DWJ3QBVNFT1NYKSW4VH" n="143" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DWJDPWXS922G2B6FZKK" target="20251230_184100.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DWJDPWXS922G2B6FZKK" target="facsimile/20251230_184100.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DWJ1TSPKJG4JVNZTYTH" type="measure" ulx="587" uly="416" lrx="1111" lry="909"/>
                 <zone xml:id="zone_01M7DF2DWK92JB0WF0JMZGH90C" type="measure" ulx="1063" uly="423" lrx="1383" lry="945"/>
                 <zone xml:id="zone_01M7DF2DWKYK5GTD8BSB7SC86W" type="measure" ulx="1354" uly="451" lrx="1636" lry="919"/>
@@ -4302,7 +4302,7 @@
                 <zone xml:id="zone_01M7DF2DWPZJ7VRW1ZCV9Q0WM6" type="measure" ulx="3126" uly="2011" lrx="3481" lry="2460"/>
             </surface>
             <surface xml:id="surface_01M7DF2DWPY0D89SHSGEHYZ6H4" n="144" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DWQW2K6B6WAW1REZJQR" target="20251230_184121.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DWQW2K6B6WAW1REZJQR" target="facsimile/20251230_184121.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DWQ80A98Z625F2XYD21" type="measure" ulx="584" uly="366" lrx="1231" lry="921"/>
                 <zone xml:id="zone_01M7DF2DWQY5JC0CWF2EVJVMA3" type="measure" ulx="1187" uly="430" lrx="1716" lry="905"/>
                 <zone xml:id="zone_01M7DF2DWQ5699DVC652W0DPAF" type="measure" ulx="1673" uly="446" lrx="2090" lry="916"/>
@@ -4330,7 +4330,7 @@
                 <zone xml:id="zone_01M7DF2DWTVJDGMGTRCYYRG1DG" type="measure" ulx="2921" uly="2021" lrx="3501" lry="2489"/>
             </surface>
             <surface xml:id="surface_01M7DF2DWTJT22YWA5KQ691ZK0" n="145" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DWTT4X67HXJJNTZQQ27" target="20251230_184129.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DWTT4X67HXJJNTZQQ27" target="facsimile/20251230_184129.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DWT857RFQT2Z7KAG701" type="measure" ulx="580" uly="417" lrx="1303" lry="908"/>
                 <zone xml:id="zone_01M7DF2DWT6MVEMN6QXXW1KF5K" type="measure" ulx="1256" uly="449" lrx="1698" lry="909"/>
                 <zone xml:id="zone_01M7DF2DWVM1JR2BY2C96EPQXS" type="measure" ulx="1647" uly="453" lrx="2201" lry="901"/>
@@ -4355,7 +4355,7 @@
                 <zone xml:id="zone_01M7DF2DWX17VDZZNRBP1Z8QY1" type="measure" ulx="2973" uly="1973" lrx="3502" lry="2482"/>
             </surface>
             <surface xml:id="surface_01M7DF2DWXAS7JMCKMSVAXX4Y4" n="146" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DWXMFMFS11Z73F37HQQ" target="20251230_184149.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DWXMFMFS11Z73F37HQQ" target="facsimile/20251230_184149.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DWX62KB4WSWNS51JKW4" type="measure" ulx="560" uly="364" lrx="1068" lry="914"/>
                 <zone xml:id="zone_01M7DF2DWXY1VMNFTN6DKDJJYJ" type="measure" ulx="1016" uly="383" lrx="1324" lry="911"/>
                 <zone xml:id="zone_01M7DF2DWYF9K0A3R9Q9XYAN5S" type="measure" ulx="1268" uly="395" lrx="1578" lry="915"/>
@@ -4392,7 +4392,7 @@
                 <zone xml:id="zone_01M7DF2DX1BHGPGZZXQY6W61Q6" type="measure" ulx="3254" uly="2018" lrx="3585" lry="2531"/>
             </surface>
             <surface xml:id="surface_01M7DF2DX13QT0TMV4MK4CWV1D" n="147" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DX13XXQ4VB5D7SKTDTH" target="20251230_184156.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DX13XXQ4VB5D7SKTDTH" target="facsimile/20251230_184156.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DX13Y6QEYER21XKM27X" type="measure" ulx="540" uly="507" lrx="1209" lry="1018"/>
                 <zone xml:id="zone_01M7DF2DX1CQJNJEG8G6HA0H9M" type="measure" ulx="1169" uly="530" lrx="1538" lry="1020"/>
                 <zone xml:id="zone_01M7DF2DX1PXZ01C0A9BZ4PYXZ" type="measure" ulx="1500" uly="509" lrx="2001" lry="1016"/>
@@ -4420,7 +4420,7 @@
                 <zone xml:id="zone_01M7DF2DX4GZ382112VEG9AF0V" type="measure" ulx="2993" uly="2068" lrx="3437" lry="2569"/>
             </surface>
             <surface xml:id="surface_01M7DF2DX44GHK13ACDFZRFG9T" n="148" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DX4Y3M5EK7NN0SCXSDB" target="20251230_184218.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DX4Y3M5EK7NN0SCXSDB" target="facsimile/20251230_184218.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DX4HV8MQFC1Q3EYMZ6H" type="measure" ulx="582" uly="415" lrx="1269" lry="995"/>
                 <zone xml:id="zone_01M7DF2DX46EWTYJFHK0QR855A" type="measure" ulx="1203" uly="457" lrx="1611" lry="1009"/>
                 <zone xml:id="zone_01M7DF2DX40WK73QRDJ6D2F4MP" type="measure" ulx="1572" uly="467" lrx="1873" lry="1032"/>
@@ -4453,7 +4453,7 @@
                 <zone xml:id="zone_01M7DF2DX74AT22720ERVQKRKD" type="measure" ulx="3187" uly="2108" lrx="3568" lry="2623"/>
             </surface>
             <surface xml:id="surface_01M7DF2DX7KGV7AKSF1C3B4BWY" n="149" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DX7NEP5PNNXT6QCBSVF" target="20251230_184229.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DX7NEP5PNNXT6QCBSVF" target="facsimile/20251230_184229.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DX7NRP5RKM1ZW7E4B1F" type="measure" ulx="521" uly="329" lrx="1105" lry="845"/>
                 <zone xml:id="zone_01M7DF2DX899ZXAQY2KQ27A99A" type="measure" ulx="1059" uly="359" lrx="1429" lry="844"/>
                 <zone xml:id="zone_01M7DF2DX8A20P51BGB2T4D7GT" type="measure" ulx="1389" uly="364" lrx="1819" lry="865"/>
@@ -4484,7 +4484,7 @@
                 <zone xml:id="zone_01M7DF2DXC10SSDD8N0XEZQ3B0" type="measure" ulx="3200" uly="1956" lrx="3503" lry="2433"/>
             </surface>
             <surface xml:id="surface_01M7DF2DXC5ZDVDYY1FWP7PM0T" n="150" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DXCH4T827SYD2X43VAH" target="20251230_184252.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DXCH4T827SYD2X43VAH" target="facsimile/20251230_184252.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DXC1FV6CAPRD10NPZ42" type="measure" ulx="658" uly="302" lrx="1507" lry="1063"/>
                 <zone xml:id="zone_01M7DF2DXDZWC7B8S4VZPJDX1V" type="measure" ulx="1474" uly="356" lrx="2127" lry="1032"/>
                 <zone xml:id="zone_01M7DF2DXDM18ZMVHB9HFNQWA4" type="measure" ulx="2078" uly="348" lrx="2740" lry="958"/>
@@ -4507,7 +4507,7 @@
                 <zone xml:id="zone_01M7DF2DXFRJX8PAWFGKS8YVM8" type="measure" ulx="3225" uly="1997" lrx="3609" lry="2563"/>
             </surface>
             <surface xml:id="surface_01M7DF2DXF35CJ4B12QX5CWHAJ" n="151" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DXGTNQ64HA8A97RNAG6" target="20251230_184301.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DXGTNQ64HA8A97RNAG6" target="facsimile/20251230_184301.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DXG293KEDDEJZJ6EEY3" type="measure" ulx="427" uly="356" lrx="3388" lry="910"/>
                 <zone xml:id="zone_01M7DF2DXGQK1FV73KX4EKP0NW" type="measure" ulx="471" uly="902" lrx="1166" lry="1459"/>
                 <zone xml:id="zone_01M7DF2DXGBE8A9TSNCS38YJ53" type="measure" ulx="1108" uly="916" lrx="1504" lry="1460"/>
@@ -4535,7 +4535,7 @@
                 <zone xml:id="zone_01M7DF2DXKD6VXD1GTT1CR0FHR" type="measure" ulx="2936" uly="1971" lrx="3350" lry="2462"/>
             </surface>
             <surface xml:id="surface_01M7DF2DXKHDEBXTWZ8C1S9EM7" n="152" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DXK08AWBE23W3Y4RTZR" target="20251230_184318.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DXK08AWBE23W3Y4RTZR" target="facsimile/20251230_184318.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DXMESAG0ZCFX3EM19PV" type="measure" ulx="625" uly="461" lrx="1167" lry="1008"/>
                 <zone xml:id="zone_01M7DF2DXMHW66VXA9SCDF7T8V" type="measure" ulx="1106" uly="479" lrx="1380" lry="1017"/>
                 <zone xml:id="zone_01M7DF2DXM4N0S409NCFRH4481" type="measure" ulx="1338" uly="474" lrx="1629" lry="1001"/>
@@ -4579,7 +4579,7 @@
                 <zone xml:id="zone_01M7DF2DXX9S2QHW04H82TWE0M" type="measure" ulx="3317" uly="2028" lrx="3607" lry="2544"/>
             </surface>
             <surface xml:id="surface_01M7DF2DXX4JVYNA8C6C5P0F1X" n="153" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DXYW1DNKM8ZGKT4Y2N0" target="20251230_184324.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DXYW1DNKM8ZGKT4Y2N0" target="facsimile/20251230_184324.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DXYD87CB8D46X8RN1FY" type="measure" ulx="473" uly="449" lrx="954" lry="965"/>
                 <zone xml:id="zone_01M7DF2DXYBGPKQMVG4ANG6SQZ" type="measure" ulx="903" uly="493" lrx="1189" lry="957"/>
                 <zone xml:id="zone_01M7DF2DXYNNWBM0FFBK528NAM" type="measure" ulx="1159" uly="499" lrx="1402" lry="963"/>
@@ -4625,7 +4625,7 @@
                 <zone xml:id="zone_01M7DF2DY2DBSHZC2CD7KEEAC3" type="measure" ulx="2906" uly="1996" lrx="3315" lry="2468"/>
             </surface>
             <surface xml:id="surface_01M7DF2DY3DJ6J3J7848594CRZ" n="154" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DY3NQZEHT467ZVHKVRY" target="20251230_184340.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DY3NQZEHT467ZVHKVRY" target="facsimile/20251230_184340.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DY37TPRPJKMJ0Z03ZFS" type="measure" ulx="705" uly="573" lrx="1433" lry="1215"/>
                 <zone xml:id="zone_01M7DF2DY38PC1S4JQW34457EM" type="measure" ulx="1375" uly="594" lrx="1843" lry="1231"/>
                 <zone xml:id="zone_01M7DF2DY3SM8JQ6S9TN5Z34WE" type="measure" ulx="1793" uly="589" lrx="2412" lry="1222"/>
@@ -4649,7 +4649,7 @@
                 <zone xml:id="zone_01M7DF2DY51N2W3DHDAN6VQCY6" type="measure" ulx="3193" uly="1881" lrx="3629" lry="2591"/>
             </surface>
             <surface xml:id="surface_01M7DF2DY551THBHHRMDZENRE5" n="155" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DY6S0VM87HM2CJ4WT4Y" target="20251230_184346.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DY6S0VM87HM2CJ4WT4Y" target="facsimile/20251230_184346.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DY64H2XFV1E14GM5QNG" type="measure" ulx="462" uly="348" lrx="976" lry="1055"/>
                 <zone xml:id="zone_01M7DF2DY60MGJPAFSW57Y3KG3" type="measure" ulx="915" uly="336" lrx="1419" lry="1091"/>
                 <zone xml:id="zone_01M7DF2DY66HNRA21FXWY3X8EC" type="measure" ulx="1346" uly="356" lrx="1859" lry="1088"/>
@@ -4673,7 +4673,7 @@
                 <zone xml:id="zone_01M7DF2DY8DN4CVXP71VHK6WDA" type="measure" ulx="2942" uly="1723" lrx="3274" lry="2348"/>
             </surface>
             <surface xml:id="surface_01M7DF2DY8JAQAFFDPRK3EP64Q" n="156" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DY9DC94TE6CQ56XCY73" target="20251230_184400.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DY9DC94TE6CQ56XCY73" target="facsimile/20251230_184400.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DY92PJWW9ZQCK3EX6TN" type="measure" ulx="630" uly="434" lrx="2273" lry="1157"/>
                 <zone xml:id="zone_01M7DF2DY9PP467VSKPCK70D57" type="measure" ulx="2111" uly="409" lrx="2608" lry="1283"/>
                 <zone xml:id="zone_01M7DF2DY9C2CYXQEMCTVM5RDM" type="measure" ulx="2546" uly="438" lrx="3027" lry="1216"/>
@@ -4703,7 +4703,7 @@
                 <zone xml:id="zone_01M7DF2DYCSW6BH636QQ24XV0W" type="measure" ulx="3268" uly="1879" lrx="3492" lry="2515"/>
             </surface>
             <surface xml:id="surface_01M7DF2DYCFT7A17JG6SDT7A46" n="157" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DYCHZH7Y2QP81YDSB4Y" target="20251230_184408.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DYCHZH7Y2QP81YDSB4Y" target="facsimile/20251230_184408.jpg" width="4000" height="3000"/>
                 <zone xml:id="zone_01M7DF2DYDGF91WG52839STY5F" type="measure" ulx="518" uly="448" lrx="979" lry="954"/>
                 <zone xml:id="zone_01M7DF2DYD3630K54567GYBNHB" type="measure" ulx="939" uly="448" lrx="1595" lry="953"/>
                 <zone xml:id="zone_01M7DF2DYDBB5RAYD0JAXTCE8D" type="measure" ulx="1553" uly="428" lrx="2195" lry="946"/>
@@ -4729,19 +4729,19 @@
                 <zone xml:id="zone_01M7DF2DYFPBJXT9TNCNNNA44V" type="measure" ulx="3084" uly="2009" lrx="3422" lry="2584"/>
             </surface>
             <surface xml:id="surface_01M7DF2DYFNS2PN6EPQQY4DB92" n="158" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DYGWWP3NG3A0X7C1H0P" target="20251230_184419.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DYGWWP3NG3A0X7C1H0P" target="facsimile/20251230_184419.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2DYGJDCN4CDVFGBQJF3Z" n="159" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DYG2DM3YF9B0V303RT6" target="20251230_184425.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DYG2DM3YF9B0V303RT6" target="facsimile/20251230_184425.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2DYGC0TBXMAXVP82Y9WF" n="160" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DYGVH4Q4BAEHWQ0XEVH" target="20251230_184436.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DYGVH4Q4BAEHWQ0XEVH" target="facsimile/20251230_184436.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2DYGC377P0BNNS1E61CT" n="161" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DYG89JED0X4JB1K4VTX" target="20251230_184442.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DYG89JED0X4JB1K4VTX" target="facsimile/20251230_184442.jpg" width="4000" height="3000"/>
             </surface>
             <surface xml:id="surface_01M7DF2DYGARVPTW3TBXT0FGEJ" n="162" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2DYG1BPRP46F4Z0D57JM" target="20251230_184514.jpg" width="4000" height="3000"/>
+                <graphic xml:id="graphic_01M7DF2DYG1BPRP46F4Z0D57JM" target="facsimile/20251230_184514.jpg" width="4000" height="3000"/>
             </surface>
         </facsimile>
         <body>
