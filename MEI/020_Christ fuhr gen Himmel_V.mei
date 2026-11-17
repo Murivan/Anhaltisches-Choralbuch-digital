@@ -1,0 +1,628 @@
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron" ?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="m-1" meiversion="5.1">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="sngttl"> 
+          <titlePart type="number">20</titlePart>
+          <titlePart type="main">Christ fuhr gen Himmel</titlePart>
+        </title>
+        <respStmt>
+          <persName role="composer_melody" xml:id="cmpsrMld">unknown</persName>
+          <persName role="composer_harmonization" xml:id="cmpsrHrm" auth="GND" auth.uri="http://d-nb.info/gnd/" codedval="1163056774">Rudolf Haase</persName>
+          <persName role="encoder_metadata">Aida Amiryan-Stein</persName>
+          <persName role="encoder_music" auth="GND" auth.uri="http://d-nb.info/gnd/" codedval="1384097120">Thomas Weber</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <respStmt>
+          <resp>publisher</resp>
+          <corpName auth="GND" auth.uri="http://d-nb.info/gnd/" codedval="1397110007">
+            <abbr>KIO</abbr>
+            <expan>KreativInstitut.OWL</expan>
+            <address>
+              <addrLine>Bielefelder Str. 66a</addrLine>
+              <addrLine>32756 Detmold</addrLine>
+              <addrLine>Germany</addrLine>
+            </address>
+            <ptr label="WWW" target="https://kreativ.institute/de"/>
+            <persName role="editor" auth="GND" auth.uri="http://d-nb.info/gnd/" codedval="135520258">Axel Berndt</persName>
+            <persName role="editor">Aida Amiryan-Stein</persName>
+          </corpName>
+          <corpName>
+            <name>Notengrafik Berlin</name>
+            <address>
+              <addrLine>Friedrichstraße 23a</addrLine>
+              <addrLine>10969 Berlin</addrLine>
+              <addrLine>Germany</addrLine>
+            </address>
+            <ptr label="WWW" target="https://notengrafik.com"/>
+          </corpName>
+          <persName role="editor" auth="GND" auth.uri="http://d-nb.info/gnd/" codedval="1384097120">Thomas Weber</persName>
+        </respStmt>
+        <pubPlace>
+          <geogName auth="geonames" auth.uri="https://www.geonames.org/" codedval="2817537">Detmold</geogName>
+        </pubPlace>
+        <date isodate="2026">2026</date>
+        <availability>
+          <identifier auth="Creative Commons" auth.uri="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</identifier>
+        </availability>
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Anhaltisches Choralbuch</p>
+        <p>Digital Edition</p>
+      </projectDesc>
+    </encodingDesc>
+    <workList>
+      <work n="20">
+        <title sameas="#sngttl"/>
+        <composer>
+          <persName sameas="#cmpsrMld"/>
+          <persName sameas="#cmpsrHrm"/>
+        </composer>
+        <creation label="Melodic Origin">
+          <bibl label="Source"><title><titlePart type="number">N. 89</titlePart> des <titlePart type="main" auth="GND" auth.uri="http://d-nb.info/gnd/" codedval="878234287"><region>Anhalt</region>. Gbchs.</titlePart></title></bibl>
+        </creation>
+      </work>
+    </workList>
+    <manifestationList>
+      <manifestation>
+        <biblList>
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title type="main" xml:lang="de">Anhaltisches Choralbuch</title>
+                <persName role="author" auth="GND" auth.uri="http://d-nb.info/gnd/" codedval="1163056774">Rudolf Haase</persName>
+                <corpName role="publisher" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="2009855-8">Otto Schulze</corpName>
+                <geogName auth="geonames" auth.uri="https://www.geonames.org/" codedval="2885237">Köthen</geogName>
+                <corpName role="engraver printer" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="64766-4">Breitkopf und Härtel</corpName>
+                <geogName auth="geonames" auth.uri="https://www.geonames.org/" codedval="2879139">Leipzig</geogName>
+                <bibl>
+                  <edition n="2">2nd</edition>
+                  <date notbefore="1901-12-31" evidence="preface">1902</date>
+                  <biblScope unit="page">15</biblScope>
+                </bibl>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </biblList>
+      </manifestation>
+    </manifestationList>
+  </meiHead>
+  <music xml:id="m-23">
+    <body xml:id="m-24">
+      <mdiv xml:id="m-25">
+        <score xml:id="m-27">
+          <scoreDef xml:id="m-28" meter.count="4" meter.sym="common" meter.unit="4">
+            <keySig sig="0"/>
+            <staffGrp symbol="brace" bar.thru="true" xml:id="m-29">
+              <staffDef n="1" lines="5">
+                <clef shape="G" line="2"/>
+              </staffDef>
+              <staffDef n="2" lines="5">
+                <clef shape="F" line="4"/>
+              </staffDef>
+            </staffGrp>
+          </scoreDef>
+          <section xml:id="m-107">
+            <app>
+              <lem>
+                <measure xml:id="m-110r1" metcon="false" n="0">
+                  <staff xml:id="m-111" n="1">
+                    <layer xml:id="m-112" n="1">
+                      <rest xml:id="m-113" dur="4"/>
+                    </layer>
+                  </staff>
+                  <staff xml:id="m-114" n="2">
+                    <layer xml:id="m-115" n="1">
+                      <rest xml:id="m-116" dur="4"/>
+                    </layer>
+                  </staff>
+                </measure>
+              </lem>
+              <rdg cause="Strophe_3_4">
+                <measure xml:id="m-110r2" metcon="false" n="0">
+                  <staff xml:id="m-117" n="1">
+                    <layer xml:id="m-118" n="1">
+                      <note xml:id="m-120" dur="4" oct="4" pname="a"/>
+                    </layer>
+                    <layer xml:id="m-119" n="2">
+                      <note xml:id="m-121" dur="4" oct="4" pname="d"/>
+                    </layer>
+                  </staff>
+                  <staff xml:id="m-122" n="2">
+                    <layer xml:id="m-123" n="1">
+                      <note xml:id="m-125" dur="4" oct="3" pname="f"/>
+                    </layer>
+                    <layer xml:id="m-124" n="2">
+                      <note xml:id="m-126" dur="4" oct="3" pname="d"/>
+                    </layer>
+                  </staff>
+                </measure>
+              </rdg>
+            </app>
+            <measure xml:id="m-165" n="1">
+              <staff xml:id="m-166" n="1">
+                <layer xml:id="m-167" n="1">
+                  <app>
+                    <lem><note xml:id="m-170" dur="2" oct="4" pname="a"/>
+                                    </lem>
+                    <rdg cause="Strophe_2_3_4"><note xml:id="m-206" dur="4" oct="4" pname="a"/>
+                                    <note xml:id="m-208" dur="4" oct="4" pname="a"/>
+                                    </rdg>
+                  </app>
+                  <note xml:id="m-172" dur="4" oct="4" pname="g"/>
+                  <beam xml:id="m-169">
+                    <note xml:id="m-174" dur="8" oct="4" pname="a"/>
+                    <note xml:id="m-176" dur="8" oct="4" pname="b"/>
+                  </beam>
+                </layer>
+                <layer xml:id="m-168" n="2">
+                  <app>
+                    <lem><note xml:id="m-171" dur="2" oct="4" pname="d"/>
+                                    </lem>
+                    <rdg cause="Strophe_2_3_4">
+                      <supplied><note xml:id="m-207" dur="4" oct="4" pname="d"/>
+                                    <note xml:id="m-209" dur="4" oct="4" pname="d"/>
+                                    </supplied>
+                    </rdg>
+                  </app>
+                  <note xml:id="m-173" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-175" dur="4" oct="4" pname="e"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-177" n="2">
+                <layer xml:id="m-178" n="1">
+                  <note xml:id="m-182" dur="4" oct="3" pname="f"/>
+                  <note xml:id="m-184" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-186" dur="4" oct="3" pname="b"/>
+                  <beam xml:id="m-180">
+                    <note xml:id="m-188" dur="8" oct="3" pname="a"/>
+                    <note xml:id="m-190" dur="8" oct="3" pname="g">
+                      <accid xml:id="m-191" accid="s"/>
+                    </note>
+                  </beam>
+                </layer>
+                <layer xml:id="m-179" n="2">
+                  <note xml:id="m-183" dur="4" oct="3" pname="d"/>
+                  <note xml:id="m-185" dur="4" oct="3" pname="f"/>
+                  <note xml:id="m-187" dur="4" oct="3" pname="e"/>
+                  <beam xml:id="m-181">
+                    <note xml:id="m-189" dur="8" oct="3" pname="c"/>
+                    <note xml:id="m-192" dur="8" oct="2" pname="b"/>
+                  </beam>
+                </layer>
+              </staff>
+              <app>
+                <lem><slur xml:id="m-193" endid="#m-184" layer="1" staff="2" startid="#m-182"/>
+                            <slur xml:id="m-194" endid="#m-185" layer="2" staff="2" startid="#m-183"/>
+                            </lem>
+                <rdg cause="Strophe_2_3_4">
+                  <supplied>
+                            </supplied>
+                </rdg>
+              </app>
+            </measure>
+            <measure xml:id="m-260" n="2" right="single">
+              <staff xml:id="m-261" n="1">
+                <layer xml:id="m-262" n="1">
+                  <note xml:id="m-264" dur="4" oct="5" pname="c"/>
+                  <note xml:id="m-266" dur="4" oct="5" pname="d"/>
+                  <note xml:id="m-268" dur="4" oct="4" pname="a"/>
+                  <note xml:id="m-270" dur="4" oct="4" pname="a"/>
+                </layer>
+                <layer xml:id="m-263" n="2">
+                  <note xml:id="m-265" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-267" dur="4" oct="4" pname="f"/>
+                  <note xml:id="m-269" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-271" dur="4" oct="4" pname="f"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-278" n="2">
+                <layer xml:id="m-279" n="1">
+                  <note xml:id="m-283" dur="4" oct="3" pname="a"/>
+                  <beam xml:id="m-281">
+                    <note xml:id="m-285" dur="8" oct="3" pname="a"/>
+                    <note xml:id="m-287" dur="8" oct="3" pname="b"/>
+                  </beam>
+                  <note xml:id="m-289" dur="4" oct="4" pname="c">
+                    <accid xml:id="m-290" accid="s"/>
+                  </note>
+                  <note xml:id="m-292" dur="4" oct="4" pname="d"/>
+                </layer>
+                <layer xml:id="m-280" n="2">
+                  <note xml:id="m-284" dur="4" oct="2" pname="a"/>
+                  <beam xml:id="m-282">
+                    <note xml:id="m-286" dur="8" oct="2" pname="f"/>
+                    <note xml:id="m-288" dur="8" oct="2" pname="g"/>
+                  </beam>
+                  <note xml:id="m-291" dur="4" oct="2" pname="a"/>
+                  <note xml:id="m-293" dur="4" oct="3" pname="d"/>
+                </layer>
+              </staff>
+              <app>
+                <lem><slur xml:id="m-272" endid="#m-266" layer="1" staff="1" startid="#m-264"/>
+                            <slur xml:id="m-273" endid="#m-267" layer="2" staff="1" startid="#m-265"/>
+                            <slur xml:id="m-294" endid="#m-287" layer="1" staff="2" startid="#m-283"/>
+                            <slur xml:id="m-295" endid="#m-288" layer="2" staff="2" startid="#m-284"/>
+                            </lem>
+                <rdg cause="Strophe_2">
+                  <supplied>
+                            
+                            </supplied>
+                </rdg>
+              </app>
+              <fermata xml:id="m-274" form="norm" layer="1 2" shape="curved" staff="1" startid="#m-268"/>
+              <dir xml:id="m-275" layer="1" staff="1" tstamp="3" type="technique">TODO: Str. 2 a doppelt<lb xml:id="m-276"/>Finde keinen Text mit 5 Strophen, <lb xml:id="m-277"/>verstehe nicht, wie das genau aussehen soll</dir>
+              <fermata xml:id="m-296" form="inv" layer="1 2" shape="curved" staff="2" startid="#m-289" place="below"/>
+            </measure>
+            <measure xml:id="m-363" n="3" right="single">
+              <staff xml:id="m-364" n="1">
+                <layer xml:id="m-365" n="1">
+                  <note xml:id="m-367" dur="4" oct="4" pname="a"/>
+                  <note xml:id="m-369" dur="4" oct="4" pname="g"/>
+                  <note xml:id="m-371" dur="4" oct="4" pname="a"/>
+                  <app>
+                    <lem><note xml:id="m-373" dur="4" oct="4" pname="f"/>
+                                </lem>
+                    <rdg cause="Strophe_2"><note xml:id="m-413" dur="8" oct="4" pname="f"/>
+                                    <note xml:id="m-415" dur="8" oct="4" pname="f"/>
+                                </rdg>
+                  </app>
+                </layer>
+                <layer xml:id="m-366" n="2">
+                  <note xml:id="m-368" dur="4" oct="4" pname="f"/>
+                  <note xml:id="m-370" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-372" dur="4" oct="4" pname="f"/>
+                  <app>
+                    <lem><note xml:id="m-374" dur="4" oct="4" pname="d"/>
+                                </lem>
+                    <rdg cause="Strophe_2">
+                      <supplied><note xml:id="m-414" dur="8" oct="4" pname="d"/>
+                                    <note xml:id="m-416" dur="8" oct="4" pname="d"/>
+                                </supplied>
+                    </rdg>
+                  </app>
+                </layer>
+              </staff>
+              <staff xml:id="m-375" n="2">
+                <layer xml:id="m-376" n="1">
+                  <note xml:id="m-379" dur="4" oct="4" pname="c"/>
+                  <beam xml:id="m-378">
+                    <note xml:id="m-381" dur="8" oct="4" pname="c"/>
+                    <note xml:id="m-383" dur="8" oct="3" pname="b">
+                      <accid xml:id="m-384" accid="f"/>
+                    </note>
+                  </beam>
+                  <note xml:id="m-385" dur="4" oct="3" pname="a"/>
+                  <app>
+                    <lem><note xml:id="m-388" dur="4" oct="3" pname="a"/>
+                                </lem>
+                    <rdg cause="Strophe_2">
+                      <supplied><note xml:id="m-430" dur="8" oct="3" pname="a"/>
+                                    <note xml:id="m-432" dur="8" oct="3" pname="a"/>
+                                </supplied>
+                    </rdg>
+                  </app>
+                </layer>
+                <layer xml:id="m-377" n="2">
+                  <note xml:id="m-380" dur="4" oct="3" pname="f"/>
+                  <note xml:id="m-382" dur="4" oct="3" pname="c"/>
+                  <note xml:id="m-386" dur="4" oct="3" pname="c">
+                    <accid xml:id="m-387" accid="s"/>
+                  </note>
+                  <app>
+                    <lem><note xml:id="m-389" dur="4" oct="3" pname="d"/>
+                                </lem>
+                    <rdg cause="Strophe_2">
+                      <supplied><note xml:id="m-431" dur="8" oct="3" pname="d"/>
+                                    <note xml:id="m-433" dur="8" oct="3" pname="d"/>
+                                </supplied>
+                    </rdg>
+                  </app>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m-455" n="4">
+              <staff xml:id="m-456" n="1">
+                <layer xml:id="m-457" n="1">
+                  <note xml:id="m-459" dur="2" oct="4" pname="e"/>
+                  <app>
+                    <lem><note xml:id="m-463" dur="4" oct="4" pname="d"/>
+                                    </lem>
+                    <rdg cause="Strophe_2_3"><note xml:id="m-509" dur="2" oct="4" pname="d"/>
+                                </rdg>
+                  </app>
+                  <note xml:id="m-465" dur="4" oct="4" pname="f"/>
+                </layer>
+                <layer xml:id="m-458" n="2">
+                  <note xml:id="m-460" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-461" dur="4" oct="4" pname="c">
+                    <accid xml:id="m-462" accid="s"/>
+                  </note>
+                  <app>
+                    <lem><note xml:id="m-464" dur="4" oct="4" pname="d"/>
+                                    </lem>
+                    <rdg cause="Strophe_2_3"><note xml:id="m-510" dur="2" oct="4" pname="d"/>
+                                </rdg>
+                  </app>
+                  <note xml:id="m-466" dur="4" oct="4" pname="d"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-469" n="2">
+                <layer xml:id="m-470" n="1">
+                  <note xml:id="m-472" dots="1" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-474" dur="8" oct="3" pname="g"/>
+                  <app>
+                    <lem><note xml:id="m-475" dur="4" oct="3" pname="f"/>
+                                    </lem>
+                    <rdg cause="Strophe_2_3"><note xml:id="m-519" dur="2" oct="3" pname="f"/>
+                                </rdg>
+                  </app>
+                  <note xml:id="m-477" dur="4" oct="3" pname="a"/>
+                </layer>
+                <layer xml:id="m-471" n="2">
+                  <note xml:id="m-473" dur="2" oct="2" pname="a"/>
+                  <app>
+                    <lem><note xml:id="m-476" dur="4" oct="3" pname="d"/>
+                                    </lem>
+                    <rdg cause="Strophe_2_3"><note xml:id="m-520" dur="2" oct="3" pname="d"/>
+                                </rdg>
+                  </app>
+                  <note xml:id="m-478" dur="4" oct="3" pname="d"/>
+                </layer>
+              </staff>
+              <slur xml:id="m-467" endid="#m-461" layer="2" staff="1" startid="#m-460"/>
+              <app>
+                <lem>
+                  <supplied><fermata xml:id="m-468" form="norm" layer="1 2" shape="curved" staff="1" startid="#m-463"/>
+                            <fermata xml:id="m-480" form="inv" layer="1 2" shape="curved" staff="2" startid="#m-475" place="below"/>
+                            </supplied>
+                </lem>
+                <rdg cause="Strophe_2_3">
+                  <supplied><fermata xml:id="m-512" form="norm" layer="1 2" shape="curved" staff="1" startid="#m-509"/>
+                            <fermata xml:id="m-522" form="inv" layer="1 2" shape="curved" staff="2" startid="#m-519" place="below"/>
+                            </supplied>
+                </rdg>
+              </app>
+              <slur xml:id="m-479" endid="#m-474" layer="1" staff="2" startid="#m-472"/>
+            </measure>
+            <measure xml:id="m-539" n="5">
+              <staff xml:id="m-540" n="1">
+                <layer xml:id="m-541" n="1">
+                  <note xml:id="m-543" dur="4" oct="4" pname="g"/>
+                  <note xml:id="m-545" dur="4" oct="4" pname="g"/>
+                  <note xml:id="m-548" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-550" dur="4" oct="4" pname="c"/>
+                </layer>
+                <layer xml:id="m-542" n="2">
+                  <note xml:id="m-544" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-546" dur="4" oct="3" pname="b">
+                    <accid xml:id="m-547" accid="f"/>
+                  </note>
+                  <note xml:id="m-549" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-551" dur="4" oct="3" pname="a"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-552" n="2">
+                <layer xml:id="m-553" n="1">
+                  <note xml:id="m-555" dur="4" oct="3" pname="g"/>
+                  <note xml:id="m-558" dur="4" oct="3" pname="d"/>
+                  <note xml:id="m-560" dur="4" oct="3" pname="d"/>
+                  <note xml:id="m-562" dur="4" oct="3" pname="e"/>
+                </layer>
+                <layer xml:id="m-554" n="2">
+                  <note xml:id="m-556" dur="4" oct="2" pname="b">
+                    <accid xml:id="m-557" accid="f"/>
+                  </note>
+                  <note xml:id="m-559" dur="4" oct="2" pname="g"/>
+                  <note xml:id="m-561" dur="4" oct="2" pname="f"/>
+                  <note xml:id="m-563" dur="4" oct="2" pname="a"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m-606" n="6">
+              <staff xml:id="m-607" n="1">
+                <layer xml:id="m-608" n="1">
+                  <note xml:id="m-610" dur="4" oct="4" pname="f"/>
+                  <note xml:id="m-612" dur="4" oct="4" pname="g"/>
+                  <note xml:id="m-614" dur="4" oct="4" pname="a"/>
+                  <note xml:id="m-616" dur="4" oct="4" pname="a"/>
+                </layer>
+                <layer xml:id="m-609" n="2">
+                  <note xml:id="m-611" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-613" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-615" dur="4" oct="4" pname="f"/>
+                  <note xml:id="m-617" dur="4" oct="4" pname="f"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-619" n="2">
+                <layer xml:id="m-620" n="1">
+                  <note xml:id="m-622" dur="4" oct="3" pname="f"/>
+                  <note xml:id="m-624" dur="4" oct="4" pname="c"/>
+                  <note xml:id="m-626" dur="4" oct="4" pname="c"/>
+                  <note xml:id="m-628" dur="4" oct="4" pname="d"/>
+                </layer>
+                <layer xml:id="m-621" n="2">
+                  <note xml:id="m-623" dur="4" oct="3" pname="d"/>
+                  <note xml:id="m-625" dur="4" oct="3" pname="c"/>
+                  <note xml:id="m-627" dur="4" oct="3" pname="f"/>
+                  <note xml:id="m-629" dur="4" oct="3" pname="d"/>
+                </layer>
+              </staff>
+              <fermata xml:id="m-618" form="norm" layer="1 2" shape="curved" staff="1" startid="#m-614"/>
+              <fermata xml:id="m-630" form="inv" layer="1 2" shape="curved" staff="2" startid="#m-626" place="below"/>
+              <app>
+                <lem/>
+                <rdg cause="Strophe_4"><slur xml:id="m-670" endid="#m-612" layer="1" staff="1" startid="#m-610"/>
+                            <slur xml:id="m-671" endid="#m-613" layer="2" staff="1" startid="#m-611"/>
+                            <slur xml:id="m-684" endid="#m-624" layer="1" staff="2" startid="#m-622"/>
+                            <slur xml:id="m-685" endid="#m-625" layer="2" staff="2" startid="#m-623"/>
+                            </rdg>
+              </app>
+            </measure>
+            <measure xml:id="m-694" n="7">
+              <staff xml:id="m-695" n="1">
+                <layer xml:id="m-696" n="1">
+                  <note xml:id="m-698" dur="4" oct="4" pname="a"/>
+                  <note xml:id="m-700" dur="4" oct="4" pname="g"/>
+                  <note xml:id="m-702" dur="4" oct="4" pname="a"/>
+                  <note xml:id="m-704" dur="4" oct="4" pname="f"/>
+                </layer>
+                <layer xml:id="m-697" n="2">
+                  <note xml:id="m-699" dur="4" oct="4" pname="f"/>
+                  <note xml:id="m-701" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-703" dur="4" oct="4" pname="e"/>
+                  <note xml:id="m-705" dur="4" oct="4" pname="d"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-706" n="2">
+                <layer xml:id="m-707" n="1">
+                  <note xml:id="m-710" dur="4" oct="4" pname="c"/>
+                  <beam xml:id="m-709">
+                    <note xml:id="m-712" dur="8" oct="4" pname="c"/>
+                    <note xml:id="m-714" dur="8" oct="3" pname="b">
+                      <accid xml:id="m-715" accid="f"/>
+                    </note>
+                  </beam>
+                  <note xml:id="m-716" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-719" dur="4" oct="3" pname="a"/>
+                </layer>
+                <layer xml:id="m-708" n="2">
+                  <note xml:id="m-711" dur="4" oct="3" pname="f"/>
+                  <note xml:id="m-713" dur="4" oct="3" pname="c"/>
+                  <note xml:id="m-717" dur="4" oct="3" pname="c">
+                    <accid xml:id="m-718" accid="s"/>
+                  </note>
+                  <note xml:id="m-720" dur="4" oct="3" pname="d"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m-763" n="8">
+              <staff xml:id="m-764" n="1">
+                <layer xml:id="m-765" n="1">
+                  <app>
+                    <lem><note xml:id="m-767" dur="4" oct="4" pname="e"/>
+                                    </lem>
+                    <rdg cause="Strophe_3"><note xml:id="m-827" dur="8" oct="4" pname="e"/>
+                                    <note xml:id="m-830" dur="8" oct="4" pname="e"/>
+                                    </rdg>
+                  </app>
+                  <note xml:id="m-770" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-772" dur="2" oct="4" pname="e"/>
+                </layer>
+                <layer xml:id="m-766" n="2">
+                  <app>
+                    <lem><note xml:id="m-768" dur="4" oct="4" pname="c"><accid xml:id="m-769" accid="s"/></note>
+                                    </lem>
+                    <rdg cause="Strophe_3">
+                      <supplied><note xml:id="m-828" dur="8" oct="4" pname="c"><accid xml:id="m-829" accid="s"/></note>
+                                    <note xml:id="m-831" dur="8" oct="4" pname="c"><accid xml:id="m-832" accid.ges="s"/></note>
+                                    </supplied>
+                    </rdg>
+                  </app>
+                  <note xml:id="m-771" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-773" dur="2" oct="4" pname="c">
+                    <accid xml:id="m-774" accid.ges="s"/>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="m-776" n="2">
+                <layer xml:id="m-777" n="1">
+                  <app>
+                    <lem><note xml:id="m-780" dur="4" oct="3" pname="a"/>
+                                    </lem>
+                    <rdg cause="Strophe_3">
+                      <supplied><note xml:id="m-843" dur="8" oct="3" pname="a"/>
+                                    <note xml:id="m-845" dur="8" oct="3" pname="a"/>
+                                    </supplied>
+                    </rdg>
+                  </app>
+                  <beam xml:id="m-779">
+                    <note xml:id="m-782" dur="8" oct="3" pname="f"/>
+                    <note xml:id="m-785" dur="8" oct="3" pname="d"/>
+                  </beam>
+                  <note xml:id="m-786" dur="2" oct="3" pname="a"/>
+                </layer>
+                <layer xml:id="m-778" n="2">
+                  <app>
+                    <lem><note xml:id="m-781" dur="4" oct="2" pname="a"/>
+                                    </lem>
+                    <rdg cause="Strophe_3">
+                      <supplied><note xml:id="m-844" dur="8" oct="2" pname="a"/>
+                                    <note xml:id="m-846" dur="8" oct="2" pname="a"/>
+                                    </supplied>
+                    </rdg>
+                  </app>
+                  <note xml:id="m-783" dur="4" oct="2" pname="b">
+                    <accid xml:id="m-784" accid="f"/>
+                  </note>
+                  <note xml:id="m-787" dur="2" oct="2" pname="a"/>
+                </layer>
+              </staff>
+              <fermata xml:id="m-775" form="norm" layer="1 2" shape="curved" staff="1" startid="#m-772"/>
+              <fermata xml:id="m-788" form="inv" layer="1 2" shape="curved" staff="2" startid="#m-786" place="below"/>
+            </measure>
+            <measure xml:id="m-854" n="9">
+              <staff xml:id="m-855" n="1">
+                <layer xml:id="m-856" n="1">
+                  <note xml:id="m-858" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-860" dur="4" oct="4" pname="d"/>
+                  <note xml:id="m-863" dur="2" oct="4" pname="d"/>
+                </layer>
+                <layer xml:id="m-857" n="2">
+                  <note xml:id="m-859" dur="4" oct="3" pname="a"/>
+                  <note xml:id="m-861" dur="4" oct="3" pname="b">
+                    <accid xml:id="m-862" accid="f"/>
+                  </note>
+                  <note xml:id="m-864" dur="2" oct="3" pname="b">
+                    <accid xml:id="m-865" accid.ges="f"/>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="m-866" n="2">
+                <layer xml:id="m-867" n="1">
+                  <note xml:id="m-869" dur="4" oct="3" pname="f"/>
+                  <note xml:id="m-871" dur="4" oct="3" pname="f"/>
+                  <note xml:id="m-874" dur="2" oct="3" pname="g"/>
+                </layer>
+                <layer xml:id="m-868" n="2">
+                  <note xml:id="m-870" dur="4" oct="3" pname="d"/>
+                  <note xml:id="m-872" dur="4" oct="2" pname="b">
+                    <accid xml:id="m-873" accid="f"/>
+                  </note>
+                  <note xml:id="m-875" dur="2" oct="2" pname="g"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m-918" n="10" right="end">
+              <staff xml:id="m-919" n="1">
+                <layer xml:id="m-920" n="1">
+                  <note xml:id="m-922" dur="1" oct="4" pname="d"/>
+                </layer>
+                <layer xml:id="m-921" n="2">
+                  <note xml:id="m-923" dur="1" oct="3" pname="a"/>
+                </layer>
+              </staff>
+              <staff xml:id="m-925" n="2">
+                <layer xml:id="m-926" n="1">
+                  <note xml:id="m-928" dur="1" oct="3" pname="f">
+                    <accid xml:id="m-929" accid="s"/>
+                  </note>
+                </layer>
+                <layer xml:id="m-927" n="2">
+                  <note xml:id="m-930" dur="1" oct="3" pname="d"/>
+                </layer>
+              </staff>
+              <fermata xml:id="m-924" form="norm" layer="1 2" shape="curved" staff="1" startid="#m-922"/>
+              <fermata xml:id="m-931" form="inv" layer="1 2" shape="curved" staff="2" startid="#m-928" place="below"/>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
