@@ -8,6 +8,35 @@ Authors: [Axel Berndt](https://github.com/axelberndt) ([Paderborn University](ht
 
 We present a critical music edition of the whole "Anhaltisches Choralbuch" (English: "Anhalt Chorale Book"). It is a collection of four-part harmonizations of hymns from the hymnals commonly used in the German Duchy of Anhalt around 1900. All harmonizations were composed by [Rudolf Haase](https://imslp.org/wiki/Category:Haase,_Rudolf) (1841-1916). The book was printed by [Breitkopf & Härtel](https://www.breitkopf.com/) in Leipzig and published by [Verlag Otto Schulze](https://d-nb.info/gnd/1072982439) in Köthen, Germany. The main source for the encodings was the [2nd edition](/facsimile/) from 1901/02.
 
+### Resetting MEI measure numbers
+
+To number measures from zero for pieces with an anacrusis and from one otherwise:
+
+```shell
+python scripts/reset_mei_measure_numbers.py path/to/input.xml facsimile/page_music.csv facsimile/page_numbers.csv
+```
+
+The input must have a single `mdiv` and section. Piece starts come from the
+printed page and accolade in `page_music.csv`, mapped from one-based `pb` indices
+using `page_numbers.csv`. The script updates both `n` and `label`, and writes
+`<input>_copy.xml` without changing the source. Use `--output` to select another
+destination or `--force` to replace an existing output.
+
+### Splitting MEI movement annotations
+
+To create one movement per piece from an MEI annotation file whose measure numbers
+already reset at piece boundaries and which contains one source `mdiv`, run:
+
+```shell
+python scripts/split_mei_movements.py path/to/input.xml facsimile/page_music.csv facsimile/page_numbers.csv
+```
+
+The script writes `<input>_movements.xml` beside the input. It uses the
+`page_music.csv` titles and anacrusis values, maps each one-based `pb` page index
+through `page_numbers.csv`, generates unique `mdiv_` IDs, and leaves the input
+unchanged. Use `--output` to choose another destination; an existing output
+requires `--force`.
+
 ### License
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
