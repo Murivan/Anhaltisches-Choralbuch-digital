@@ -37,6 +37,24 @@ through `page_numbers.csv`, generates unique `mdiv_` IDs, and leaves the input
 unchanged. Use `--output` to choose another destination; an existing output
 requires `--force`.
 
+### Adding facsimile links to MEI files
+
+To copy one MEI file, or all files matched by a quoted glob, with measure-zone
+links from the annotation map, run:
+
+```shell
+python scripts/add_mei_facsimile.py "MEI/*.mei" MEI/measure_annotations.xml MEI/MEI_pages.csv
+```
+
+The script writes `<input>_facsimile.mei` beside each input and skips existing
+`_facsimile` files when expanding a glob. `MEI_pages.csv` maps each MEI filename
+to the matching annotation `mdiv` label. Its `notes` field optionally lists the
+annotation measures encoded by the MEI file in order, such as `0-7,9,13`; when it
+is empty, MEI measure `n` values are used and must be unique. Every measure gets
+a `facs` reference, and `music` gets a `facsimile` containing only the referenced
+zones. Use `--graphic-base` if image paths cannot be found automatically, or
+`--force` to replace existing outputs.
+
 ### License
 [![CC BY 4.0][cc-by-shield]][cc-by]
 

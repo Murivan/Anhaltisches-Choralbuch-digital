@@ -93,21 +93,20 @@
     </manifestationList>
   </meiHead>
   <music xml:id="m-23">
-        <facsimile>
-
-            <surface xml:id="surface_01M7DF2D8Q8FYGETPJXXMG03QP" n="15" ulx="0" uly="0" lrx="3999" lry="2999">
-                <graphic xml:id="graphic_01M7DF2D8RMG9SGXTZRR3S1BA3" target="../facsimile/20251230_180023.jpg" width="4000" height="3000"/>
-                <zone xml:id="zone_01M7DF2D8RNCKHKF6SMCWB94Z5" type="measure" ulx="490" uly="344" lrx="973" lry="877"/>
-                <zone xml:id="zone_01M7DF2D8R00HP8JYGXRTE13G3" type="measure" ulx="944" uly="368" lrx="1523" lry="864"/>
-                <zone xml:id="zone_01M7DF2D8R4E9KQCXCPC9RV59F" type="measure" ulx="1481" uly="388" lrx="2082" lry="912"/>
-                <zone xml:id="zone_01M7DF2D8S9S18YJ6CYJVF4QCJ" type="measure" ulx="2034" uly="402" lrx="2694" lry="884"/>
-                <zone xml:id="zone_01M7DF2D8SY6CN7SFAZFPE58FT" type="measure" ulx="2669" uly="389" lrx="3296" lry="916"/>
-                <zone xml:id="zone_01M7DF2D8SF9X38YEGDA0JCD04" type="measure" ulx="498" uly="858" lrx="1496" lry="1337"/>
-                <zone xml:id="zone_01M7DF2D8S1F9S83VHS68E6N7W" type="measure" ulx="1465" uly="885" lrx="2146" lry="1353"/>
-                <zone xml:id="zone_01M7DF2D8TV0F9DCHY6QNWYTDX" type="measure" ulx="2110" uly="886" lrx="2748" lry="1357"/>
-                <zone xml:id="zone_01M7DF2D8TSXCHCSA07C235VTV" type="measure" ulx="2704" uly="886" lrx="3302" lry="1387"/>
-            </surface>
-        </facsimile>
+    <facsimile>
+      <surface xml:id="surface_01M7DF2D8Q8FYGETPJXXMG03QP" n="15" ulx="0" uly="0" lrx="3999" lry="2999">
+        <graphic xml:id="graphic_01M7DF2D8RMG9SGXTZRR3S1BA3" target="../facsimile/20251230_180023.jpg" width="4000" height="3000"/>
+        <zone xml:id="zone_01M7DF2D8RNCKHKF6SMCWB94Z5" type="measure" ulx="490" uly="344" lrx="973" lry="877"/>
+        <zone xml:id="zone_01M7DF2D8R00HP8JYGXRTE13G3" type="measure" ulx="944" uly="368" lrx="1523" lry="864"/>
+        <zone xml:id="zone_01M7DF2D8R4E9KQCXCPC9RV59F" type="measure" ulx="1481" uly="388" lrx="2082" lry="912"/>
+        <zone xml:id="zone_01M7DF2D8S9S18YJ6CYJVF4QCJ" type="measure" ulx="2034" uly="402" lrx="2694" lry="884"/>
+        <zone xml:id="zone_01M7DF2D8SY6CN7SFAZFPE58FT" type="measure" ulx="2669" uly="389" lrx="3296" lry="916"/>
+        <zone xml:id="zone_01M7DF2D8SF9X38YEGDA0JCD04" type="measure" ulx="498" uly="858" lrx="1496" lry="1337"/>
+        <zone xml:id="zone_01M7DF2D8S1F9S83VHS68E6N7W" type="measure" ulx="1465" uly="885" lrx="2146" lry="1353"/>
+        <zone xml:id="zone_01M7DF2D8TV0F9DCHY6QNWYTDX" type="measure" ulx="2110" uly="886" lrx="2748" lry="1357"/>
+        <zone xml:id="zone_01M7DF2D8TSXCHCSA07C235VTV" type="measure" ulx="2704" uly="886" lrx="3302" lry="1387"/>
+      </surface>
+    </facsimile>
     <body xml:id="m-24">
       <mdiv xml:id="m-25">
         <score xml:id="m-27">
@@ -407,7 +406,7 @@
                 </layer>
               </staff>
             </measure>
-            <measure xml:id="m-253" metcon="false" n="8" facs="#zone_01M7DF2D8TSXCHCSA07C235VTV" right="end">
+            <measure xml:id="m-253" metcon="false" n="8" right="end" facs="#zone_01M7DF2D8TSXCHCSA07C235VTV">
               <staff xml:id="m-254" n="1">
                 <layer xml:id="m-255" n="1">
                   <beam xml:id="m-256">
